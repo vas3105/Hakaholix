@@ -1,0 +1,3305 @@
+{
+    "location": "Kerala",
+    "attractions": [
+        {
+            "id": "attr_001",
+            "name": "Munnar Tea Gardens",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.0041,
+                    "lng": 77.3891
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "sightseeing",
+                    "photography"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "families",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_002",
+            "name": "Mattupetty Dam",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.8841,
+                    "lng": 76.0621
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "shopping",
+                    "temple_visit",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "solo_travelers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_003",
+            "name": "Eravikulam National Park",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.6856,
+                    "lng": 75.6656
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 5,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "shopping",
+                    "trekking",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_004",
+            "name": "Anamudi Peak",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.737,
+                    "lng": 75.5175
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 2,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "temple_visit",
+                    "cultural_show"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_005",
+            "name": "Top Station",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.8109,
+                    "lng": 75.5355
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 2,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "bird_watching",
+                    "cultural_show"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "couples",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_006",
+            "name": "Marayoor Sandalwood Forests",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.8719,
+                    "lng": 75.1216
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 5,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "sightseeing",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_007",
+            "name": "Kolukkumalai Tea Estate",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.0013,
+                    "lng": 77.105
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "photography",
+                    "shopping"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "families",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_008",
+            "name": "Alleppey Backwaters",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.5115,
+                    "lng": 75.3773
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 5,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "sightseeing",
+                    "shopping"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "couples",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_009",
+            "name": "Pathiramanal Island",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.4575,
+                    "lng": 75.2893
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "bird_watching",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "nature_lovers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_010",
+            "name": "Vembanad Lake",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.5841,
+                    "lng": 75.0321
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "photography",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_011",
+            "name": "Krishnapuram Palace",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.9433,
+                    "lng": 75.3178
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 5,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "photography",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_012",
+            "name": "Fort Kochi",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.6633,
+                    "lng": 76.6169
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 2,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "shopping",
+                    "sightseeing",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "couples",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_013",
+            "name": "Jew Town",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.4371,
+                    "lng": 75.0261
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 2,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "photography",
+                    "shopping"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "photographers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_014",
+            "name": "Mattancherry Palace",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.3688,
+                    "lng": 75.6545
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "trekking",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_015",
+            "name": "Chinese Fishing Nets",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.2633,
+                    "lng": 77.3001
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "cultural_show",
+                    "temple_visit"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "families",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_016",
+            "name": "Marine Drive Kochi",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.3873,
+                    "lng": 76.1706
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "cultural_show",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_017",
+            "name": "Willingdon Island",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.6461,
+                    "lng": 75.9158
+                }
+            },
+            "details": {
+                "type": "nature",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "temple_visit",
+                    "boating"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_018",
+            "name": "Hill Palace Museum",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.8385,
+                    "lng": 75.3371
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 5,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "shopping",
+                    "photography"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_019",
+            "name": "Kovalam Beach",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.9898,
+                    "lng": 75.9687
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "sightseeing",
+                    "trekking"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "nature_lovers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_020",
+            "name": "Shanghumukham Beach",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.2152,
+                    "lng": 75.1753
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "temple_visit",
+                    "photography"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_021",
+            "name": "Padmanabhaswamy Temple",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.9965,
+                    "lng": 76.8276
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "photography",
+                    "shopping"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "nature_lovers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_022",
+            "name": "Napier Museum",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.6034,
+                    "lng": 76.2821
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "cultural_show",
+                    "trekking",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "nature_lovers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_023",
+            "name": "Ponmudi Hills",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.5012,
+                    "lng": 77.0788
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 2,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "photography",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "nature_lovers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_024",
+            "name": "Varkala Cliff",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.8709,
+                    "lng": 76.6151
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 2,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "photography",
+                    "temple_visit"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_025",
+            "name": "Veli Tourist Village",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1723,
+                    "lng": 76.8932
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "bird_watching",
+                    "cultural_show"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "solo_travelers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_026",
+            "name": "Edakkal Caves",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.6473,
+                    "lng": 77.4451
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "trekking",
+                    "shopping"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "photographers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_027",
+            "name": "Banasura Sagar Dam",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.4352,
+                    "lng": 76.3133
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "boating",
+                    "cultural_show"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_028",
+            "name": "Pookode Lake",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.9858,
+                    "lng": 75.7951
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 5,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "shopping",
+                    "sightseeing",
+                    "boating"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "families",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_029",
+            "name": "Chembra Peak",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1002,
+                    "lng": 75.2892
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 5,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "temple_visit",
+                    "shopping"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "families",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_030",
+            "name": "Tholpetty Wildlife Sanctuary",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.2424,
+                    "lng": 76.5011
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 2,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "bird_watching",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_031",
+            "name": "Periyar Wildlife Sanctuary",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.9508,
+                    "lng": 77.3855
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "photography",
+                    "boating"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "solo_travelers",
+                    "photographers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_032",
+            "name": "Kumily Spice Plantations",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1288,
+                    "lng": 76.4312
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "shopping",
+                    "sightseeing"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "nature_lovers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_033",
+            "name": "Mullaperiyar Dam",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1616,
+                    "lng": 76.4336
+                }
+            },
+            "details": {
+                "type": "nature",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "temple_visit",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "families",
+                    "couples",
+                    "photographers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_034",
+            "name": "Athirappilly Waterfalls",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.8454,
+                    "lng": 75.8086
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 4,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "sightseeing",
+                    "trekking"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "couples",
+                    "solo_travelers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (5km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_035",
+            "name": "Vazhachal Waterfalls",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.2511,
+                    "lng": 75.8689
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "cultural_show",
+                    "trekking",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "families",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_036",
+            "name": "Guruvayur Temple",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.5189,
+                    "lng": 75.9207
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "sightseeing",
+                    "shopping"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "nature_lovers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_037",
+            "name": "Chavakkad Beach",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.8971,
+                    "lng": 77.2105
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "shopping",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "solo_travelers",
+                    "nature_lovers",
+                    "photographers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (1km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_038",
+            "name": "Silent Valley National Park",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.5947,
+                    "lng": 77.2605
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "bird_watching",
+                    "trekking"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "families",
+                    "nature_lovers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_039",
+            "name": "Malampuzha Dam",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.3326,
+                    "lng": 77.0448
+                }
+            },
+            "details": {
+                "type": "nature",
+                "duration_hours": 5,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "sightseeing",
+                    "temple_visit"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "families",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_040",
+            "name": "Palakkad Fort",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.7644,
+                    "lng": 77.3124
+                }
+            },
+            "details": {
+                "type": "nature",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "bird_watching",
+                    "photography",
+                    "cultural_show"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "solo_travelers",
+                    "nature_lovers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_041",
+            "name": "Parambikulam Tiger Reserve",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.8694,
+                    "lng": 77.1128
+                }
+            },
+            "details": {
+                "type": "beach",
+                "duration_hours": 4,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "bird_watching",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "photographers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_042",
+            "name": "Bekal Fort",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.7704,
+                    "lng": 76.8123
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "trekking",
+                    "cultural_show"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "families",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_043",
+            "name": "Payyambalam Beach",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.0621,
+                    "lng": 75.0853
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 4,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "cultural_show",
+                    "shopping",
+                    "sightseeing"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "solo_travelers",
+                    "couples"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_044",
+            "name": "St. Angelo Fort",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.1438,
+                    "lng": 76.1981
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 5,
+                "best_time_of_day": "morning",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "photography",
+                    "temple_visit",
+                    "cultural_show"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "solo_travelers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": true,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (5km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_045",
+            "name": "Muzhappilangad Drive-in Beach",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.3693,
+                    "lng": 75.6758
+                }
+            },
+            "details": {
+                "type": "hill_station",
+                "duration_hours": 4,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "trekking",
+                    "temple_visit",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "couples",
+                    "families",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (1km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_046",
+            "name": "Kumarakom Bird Sanctuary",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1547,
+                    "lng": 75.7731
+                }
+            },
+            "details": {
+                "type": "heritage",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 100,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "sightseeing",
+                    "cultural_show",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_047",
+            "name": "Sabarimala Temple",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.6897,
+                    "lng": 75.0908
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 4,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "shopping",
+                    "boating",
+                    "temple_visit"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "low"
+                },
+                "suitable_for": [
+                    "photographers",
+                    "nature_lovers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "full_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (4km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_048",
+            "name": "Aranmula Parthasarathy Temple",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 10.4695,
+                    "lng": 75.3803
+                }
+            },
+            "details": {
+                "type": "backwater",
+                "duration_hours": 3,
+                "best_time_of_day": "afternoon",
+                "entry_fee_inr": 0,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "photography",
+                    "cultural_show"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "nature_lovers",
+                    "solo_travelers",
+                    "families"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": true,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (4km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_049",
+            "name": "Thenmala Eco Tourism",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 8.6551,
+                    "lng": 75.1197
+                }
+            },
+            "details": {
+                "type": "nature",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 50,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "temple_visit",
+                    "shopping",
+                    "boating"
+                ],
+                "difficulty": "moderate",
+                "crowd_level": {
+                    "peak_season": "high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "solo_travelers",
+                    "photographers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "half_day",
+                "parking_available": false,
+                "wheelchair_accessible": false,
+                "nearby_restaurants": [
+                    "Restaurant A (3km)",
+                    "Restaurant B (3km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        },
+        {
+            "id": "attr_050",
+            "name": "Ashtamudi Lake",
+            "location": {
+                "city": "Various",
+                "district": "Kerala",
+                "region": "Mixed",
+                "coordinates": {
+                    "lat": 9.1001,
+                    "lng": 76.6243
+                }
+            },
+            "details": {
+                "type": "cultural",
+                "duration_hours": 3,
+                "best_time_of_day": "evening",
+                "entry_fee_inr": 20,
+                "operating_hours": "08:00-18:00",
+                "closed_on": []
+            },
+            "experience": {
+                "activities": [
+                    "boating",
+                    "photography",
+                    "bird_watching"
+                ],
+                "difficulty": "easy",
+                "crowd_level": {
+                    "peak_season": "very_high",
+                    "off_season": "moderate"
+                },
+                "suitable_for": [
+                    "couples",
+                    "photographers",
+                    "solo_travelers"
+                ]
+            },
+            "logistics": {
+                "typical_visit_duration": "2-3 hours",
+                "parking_available": false,
+                "wheelchair_accessible": true,
+                "nearby_restaurants": [
+                    "Restaurant A (2km)",
+                    "Restaurant B (2km)"
+                ]
+            },
+            "insider_tips": [
+                "Visit during early morning to avoid crowds",
+                "Carry water and sunscreen",
+                "Book tickets online during peak season"
+            ],
+            "weather_considerations": {
+                "best_months": [
+                    "Nov",
+                    "Dec",
+                    "Jan",
+                    "Feb"
+                ],
+                "avoid_months": [
+                    "June",
+                    "July",
+                    "Aug"
+                ],
+                "reason": "Heavy monsoon or heat affects accessibility"
+            }
+        }
+    ]
+}
