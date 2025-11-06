@@ -1,7 +1,7 @@
 # Hakaholix
-# Project: Poyi (DevHost 2025)
+# Project: Pogam -Your Smart Travel Assistant for God’s Own Country
 
-A next-generation conversational AI for personalized travel planning.
+Discover hidden Kerala — from misty hills to local festivals — all through your voice.
 
 ---
 
