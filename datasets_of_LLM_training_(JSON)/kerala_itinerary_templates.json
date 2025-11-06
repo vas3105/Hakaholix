@@ -1,0 +1,4184 @@
+{
+  "templates": [
+    {
+      "id": "template_gardenhouse_dayout",
+      "name": "Garden House Day Out Package, Malampuzha",
+      "duration_days": 1,
+      "theme": "family_day_out",
+      "target_audience": ["families", "friends_group", "local_visitors"],
+      "budget_range_inr": {
+        "min": 600,
+        "max": 600,
+        "avg": 600
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Garden House, Malampuzha",
+          "theme": "Relaxing day-out experience",
+          "activities": [
+            {
+              "time": "10:00",
+              "activity": "Welcome drink on arrival",
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch or Dinner buffet",
+              "cost_inr": 0
+            },
+            {
+              "time": "16:30",
+              "activity": "Evening tea/coffee with snacks",
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Use refreshment room for relaxation",
+              "duration_hours": 1,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "gardenhouse_malampuzha",
+            "cost_inr": 600
+          },
+          "daily_budget_inr": 600,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "self_arrival",
+            "notes": "Available on weekdays only (Mon–Thu). Fridays, Saturdays, Sundays, and holidays excluded."
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add a guided garden or dam tour",
+          "budget_impact": 300,
+          "suitable_for": ["nature_lovers"]
+        }
+      ],
+      "packing_list": ["casual_clothes", "hat", "sunscreen"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_waterscapes_dayout",
+      "name": "Water Scapes Day Out Package, Kumarakom",
+      "duration_days": 1,
+      "theme": "backwater_day_out",
+      "target_audience": ["families", "corporate_groups", "friends_group"],
+      "budget_range_inr": {
+        "min": 750,
+        "max": 1750,
+        "avg": 1250
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Water Scapes, Kumarakom",
+          "theme": "Leisure day by the backwaters",
+          "activities": [
+            {
+              "time": "10:00",
+              "activity": "Welcome drink and introduction",
+              "cost_inr": 0
+            },
+            {
+              "time": "12:30",
+              "activity": "Buffet lunch with regional dishes",
+              "cost_inr": 0
+            },
+            {
+              "time": "15:30",
+              "activity": "Evening tea/coffee with snacks",
+              "cost_inr": 0
+            },
+            {
+              "time": "17:00",
+              "activity": "Optional backwater walk or photography",
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "waterscapes_kumarakom",
+            "cost_inr": 1500
+          },
+          "daily_budget_inr": 1500,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "self_arrival",
+            "notes": "Package available 1 Oct 2024 – 31 May 2025. Weekend surcharge applies (Sat–Sun & holidays)."
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add boating or sunset cruise experience",
+          "budget_impact": 500,
+          "suitable_for": ["couples", "photographers"]
+        }
+      ],
+      "packing_list": ["comfortable_clothes", "camera", "sunglasses", "cap"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_kumarakom_gateway_dayout",
+      "name": "Kumarakom Gateway Resort Day Out Package",
+      "duration_days": 1,
+      "theme": "family_lakeside_recreation",
+      "target_audience": ["families", "kids", "corporate_groups"],
+      "budget_range_inr": {
+        "min": 850,
+        "max": 850,
+        "avg": 850
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kumarakom Gateway Resort",
+          "theme": "Day-out with fun activities and lakeside leisure",
+          "activities": [
+            {
+              "time": "10:00",
+              "activity": "Welcome drink on arrival",
+              "cost_inr": 0
+            },
+            {
+              "time": "12:30",
+              "activity": "Buffet meal with 3 non-veg options",
+              "cost_inr": 0
+            },
+            {
+              "time": "15:00",
+              "activity": "Evening tea/coffee with snacks",
+              "cost_inr": 0
+            },
+            {
+              "time": "15:30",
+              "activity": "Recreational activities: Kids play area, angling, cycling, badminton",
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "gatewayresort_kumarakom",
+            "cost_inr": 850
+          },
+          "daily_budget_inr": 850,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "self_arrival",
+            "notes": "Package valid from 1 Jan 2025 – 30 Sep 2025. Must be booked one day in advance."
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add fishing rod and badminton equipment for all guests",
+          "budget_impact": 200,
+          "suitable_for": ["corporate_groups", "families"]
+        }
+      ],
+      "packing_list": ["comfortable_clothes", "sports_shoes", "hat", "sunscreen"],
+      "best_months": ["Jan", "Feb", "Mar", "Apr", "May", "Sep"]
+    },
+    {
+      "id": "template_ktdc_moments",
+      "name": "KTDC Moments",
+      "duration_days": 5,
+      "theme": "hill_backwater_combo",
+      "target_audience": ["families", "couples", "first_time_travelers"],
+      "budget_range_inr": {
+        "min": 40432,
+        "max": 73524,
+        "avg": 57000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kochi → Munnar",
+          "theme": "Arrival & transfer to Munnar",
+          "activities": [
+            { "activity": "Pickup from Cochin International Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Transfer to Munnar by car", "cost_inr": 0 },
+            { "activity": "Check-in and overnight stay at Tea County", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "tea_county_munnar", "cost_inr": 0 }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill station sightseeing",
+          "activities": [
+            { "activity": "Visit Mattupetty Dam, Echo Point, and Tea Museum", "cost_inr": 300 },
+            { "activity": "Evening leisure at Tea County", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "tea_county_munnar", "cost_inr": 0 }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Kumarakom",
+          "theme": "Backwater experience",
+          "activities": [
+            { "activity": "Enroute sightseeing at Kottayam", "cost_inr": 0 },
+            { "activity": "Check-in at Waterscapes Resort, Kumarakom", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "waterscapes_kumarakom", "cost_inr": 0 }
+        },
+        {
+          "day": 4,
+          "location": "Kumarakom → Kochi",
+          "theme": "Cultural exploration",
+          "activities": [
+            { "activity": "Sightseeing in and around Kochi", "cost_inr": 0 },
+            { "activity": "Overnight stay at Bolgatty Island Resort", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "bolgatty_island_resort", "cost_inr": 0 }
+        },
+        {
+          "day": 5,
+          "location": "Kochi",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Cochin International Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 40432 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 67694 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 73524 },
+        { "extra_person_cost_inr": 6308 }
+      ],
+      "package_includes": [
+        "Room rent with breakfast (fixed menu)",
+        "All transfers, sightseeing & travel as per itinerary",
+        "Airport/Railway pickup & drop",
+        "Parking, toll, and driver allowance"
+      ],
+      "package_excludes": [
+        "Entry fees inside Sanctuary/Forest/Boating",
+        "Lunch & Dinner"
+      ],
+      "policies": {
+        "min_persons_required": 2,
+        "check_in": "13:00",
+        "check_out": "11:00",
+        "modification_allowed": false,
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "18% GST applicable if accommodation charges exceed ₹7500 per night"
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_ktdc_marvel",
+      "name": "KTDC Marvel",
+      "duration_days": 6,
+      "theme": "hill_wildlife_backwater",
+      "target_audience": ["families", "honeymooners", "nature_lovers"],
+      "budget_range_inr": {
+        "min": 49529,
+        "max": 89073,
+        "avg": 70000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kochi → Munnar",
+          "theme": "Arrival and scenic drive to Munnar",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Check-in at Tea County", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Munnar sightseeing",
+          "activities": [
+            { "activity": "Visit Tea Museum, Attukal Waterfalls, and Eravikulam National Park", "cost_inr": 300 }
+          ],
+          "accommodation": { "hotel_id": "tea_county_munnar", "cost_inr": 0 }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife and spice gardens",
+          "activities": [
+            { "activity": "Transfer to Thekkady & sightseeing", "cost_inr": 0 },
+            { "activity": "Boat safari at Periyar Lake", "cost_inr": 800 }
+          ],
+          "accommodation": { "hotel_id": "aranya_nivas_thekkady", "cost_inr": 0 }
+        },
+        {
+          "day": 4,
+          "location": "Thekkady → Kumarakom",
+          "theme": "Backwater leisure",
+          "activities": [
+            { "activity": "Drive via Kottayam, visit local attractions", "cost_inr": 0 },
+            { "activity": "Check-in at Waterscapes Resort", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "waterscapes_kumarakom", "cost_inr": 0 }
+        },
+        {
+          "day": 5,
+          "location": "Kumarakom → Kochi",
+          "theme": "City sightseeing",
+          "activities": [
+            { "activity": "Sightseeing in and around Kochi", "cost_inr": 0 },
+            { "activity": "Stay at Bolgatty Island Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 6,
+          "location": "Kochi",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Cochin Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 49529 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 83123 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 89073 },
+        { "extra_person_cost_inr": 7836 }
+      ],
+      "package_includes": [
+        "Accommodation with breakfast",
+        "All transfers, sightseeing & travel as per itinerary",
+        "Parking, toll, and driver allowance"
+      ],
+      "package_excludes": [
+        "Entry fees, boating, lunch & dinner"
+      ],
+      "policies": {
+        "min_persons_required": 2,
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "18% GST applicable if accommodation charges exceed ₹7500 per night"
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_ktdc_magic",
+      "name": "KTDC Magic",
+      "duration_days": 8,
+      "theme": "grand_kerala_experience",
+      "target_audience": ["families", "international_tourists", "luxury_travelers"],
+      "budget_range_inr": {
+        "min": 69447,
+        "max": 125154,
+        "avg": 97000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kochi",
+          "theme": "Arrival and relaxation",
+          "activities": [
+            { "activity": "Pickup from Kochi Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Check-in and rest at Bolgatty Island Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 2,
+          "location": "Kochi → Munnar",
+          "theme": "Transfer & scenic drive",
+          "activities": [
+            { "activity": "Sightseeing enroute", "cost_inr": 0 },
+            { "activity": "Halt at Tea County Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 3,
+          "location": "Munnar",
+          "theme": "Munnar sightseeing",
+          "activities": [
+            { "activity": "Explore tea gardens, waterfalls, and local markets", "cost_inr": 300 }
+          ]
+        },
+        {
+          "day": 4,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife experience",
+          "activities": [
+            { "activity": "Visit Periyar Sanctuary & spice gardens", "cost_inr": 500 }
+          ],
+          "accommodation": { "hotel_id": "aranya_nivas_thekkady", "cost_inr": 0 }
+        },
+        {
+          "day": 5,
+          "location": "Thekkady → Kumarakom",
+          "theme": "Backwater resort stay",
+          "activities": [
+            { "activity": "Check-in at Waterscapes Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 6,
+          "location": "Kumarakom → Kovalam",
+          "theme": "Beach retreat",
+          "activities": [
+            { "activity": "Drive to Kovalam and relax at Samudra Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 7,
+          "location": "Trivandrum / Kovalam",
+          "theme": "Leisure and sightseeing",
+          "activities": [
+            { "activity": "Visit Trivandrum city attractions and Kovalam beach", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 8,
+          "location": "Trivandrum",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Trivandrum Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 69447 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 117589 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 125154 },
+        { "extra_person_cost_inr": 11284 }
+      ],
+      "package_includes": [
+        "Breakfast included at all stays",
+        "All transfers, sightseeing, and long-distance travel",
+        "Pickup & drop from airport or railway station"
+      ],
+      "package_excludes": [
+        "Entry fees, boating, lunch & dinner"
+      ],
+      "policies": {
+        "check_in": "13:00",
+        "check_out": "11:00",
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "18% GST applicable if accommodation charges exceed ₹7500 per night"
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_ktdc_moments_summer2025",
+      "name": "KTDC Moments (Summer–Monsoon 2025)",
+      "duration_days": 6,
+      "theme": "hill_backwater_combo",
+      "target_audience": ["families", "couples", "first_time_travelers"],
+      "validity_period": {
+        "from": "April 2025",
+        "to": "September 2025",
+        "season": "Summer–Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 45465,
+        "max": 82900,
+        "avg": 64000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kochi → Munnar",
+          "theme": "Arrival and transfer to Munnar",
+          "activities": [
+            { "activity": "Pickup from Cochin International Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Scenic drive to Munnar", "cost_inr": 0 },
+            { "activity": "Check-in and overnight stay at Tea County", "cost_inr": 0 }
+          ],
+          "accommodation": { "hotel_id": "tea_county_munnar", "cost_inr": 0 }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Munnar sightseeing",
+          "activities": [
+            { "activity": "Visit Mattupetty Dam, Echo Point, Tea Museum", "cost_inr": 300 },
+            { "activity": "Stay overnight at Tea County Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Kumarakom",
+          "theme": "Backwater leisure",
+          "activities": [
+            { "activity": "Drive to Kumarakom", "cost_inr": 0 },
+            { "activity": "Check-in at Waterscapes Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 4,
+          "location": "Kumarakom",
+          "theme": "Sightseeing and relaxation",
+          "activities": [
+            { "activity": "Sightseeing at Kottayam and Kumarakom", "cost_inr": 0 },
+            { "activity": "Stay at Waterscapes Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 5,
+          "location": "Kumarakom → Kochi",
+          "theme": "Cultural exploration",
+          "activities": [
+            { "activity": "Drive to Kochi & city sightseeing", "cost_inr": 0 },
+            { "activity": "Stay overnight at Bolgatty Island Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 6,
+          "location": "Kochi",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Cochin International Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 45465 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 77590 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 82900 },
+        { "extra_person_cost_inr": 8040 }
+      ],
+      "package_includes": [
+        "Accommodation with breakfast (fixed menu)",
+        "All transfers and sightseeing as per itinerary",
+        "Pickup and drop at airport or railway station",
+        "Parking, toll, and crew allowance"
+      ],
+      "package_excludes": [
+        "Entry fees inside sanctuary/forest/boating",
+        "Lunch and dinner"
+      ],
+      "policies": {
+        "check_in": "13:00",
+        "check_out": "11:00",
+        "min_persons_required": 2,
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "Any change in GST rate will alter the above rates"
+      },
+      "best_months": ["Apr", "May", "Jun", "Jul", "Aug", "Sep"]
+    },
+    {
+      "id": "template_ktdc_marvel_summer2025",
+      "name": "KTDC Marvel (Summer–Monsoon 2025)",
+      "duration_days": 7,
+      "theme": "hill_wildlife_backwater",
+      "target_audience": ["families", "nature_lovers", "honeymooners"],
+      "validity_period": {
+        "from": "April 2025",
+        "to": "September 2025",
+        "season": "Summer–Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 54260,
+        "max": 99125,
+        "avg": 77000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kochi → Munnar",
+          "theme": "Arrival at Munnar",
+          "activities": [
+            { "activity": "Pickup and drive to Munnar", "cost_inr": 0 },
+            { "activity": "Stay at Tea County Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill station sightseeing",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park, Tea Museum", "cost_inr": 300 }
+          ]
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife and nature",
+          "activities": [
+            { "activity": "Transfer to Thekkady", "cost_inr": 0 },
+            { "activity": "Periyar boat safari & spice garden visit", "cost_inr": 800 }
+          ],
+          "accommodation": { "hotel_id": "aranya_nivas_thekkady", "cost_inr": 0 }
+        },
+        {
+          "day": 4,
+          "location": "Thekkady → Kumarakom",
+          "theme": "Backwater leisure",
+          "activities": [
+            { "activity": "Transfer to Kumarakom", "cost_inr": 0 },
+            { "activity": "Check-in at Waterscapes Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 5,
+          "location": "Kumarakom",
+          "theme": "Local sightseeing",
+          "activities": [
+            { "activity": "Visit Kottayam attractions", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 6,
+          "location": "Kumarakom → Kochi",
+          "theme": "City exploration",
+          "activities": [
+            { "activity": "Kochi sightseeing and stay at Bolgatty Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 7,
+          "location": "Kochi",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Cochin Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 54260 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 92810 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 99125 },
+        { "extra_person_cost_inr": 9606 }
+      ],
+      "package_includes": [
+        "Accommodation with breakfast",
+        "All transfers, sightseeing, and travel",
+        "Parking, toll, and crew allowance"
+      ],
+      "package_excludes": [
+        "Entry fees, boating, lunch & dinner"
+      ],
+      "policies": {
+        "check_in": "13:00",
+        "check_out": "11:00",
+        "min_persons_required": 2,
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "Any change in GST rate will alter the above rates"
+      },
+      "best_months": ["Apr", "May", "Jun", "Jul", "Aug", "Sep"]
+    },
+    {
+      "id": "template_ktdc_magic_summer2025",
+      "name": "KTDC Magic (Summer–Monsoon 2025)",
+      "duration_days": 8,
+      "theme": "grand_kerala_experience",
+      "target_audience": ["luxury_travelers", "families", "international_tourists"],
+      "validity_period": {
+        "from": "April 2025",
+        "to": "September 2025",
+        "season": "Summer–Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 65650,
+        "max": 118305,
+        "avg": 91000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Trivandrum → Kovalam",
+          "theme": "Arrival & relaxation",
+          "activities": [
+            { "activity": "Pickup from Trivandrum Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Check-in and overnight stay at Samudra Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 2,
+          "location": "Trivandrum / Kovalam",
+          "theme": "Sightseeing and beach leisure",
+          "activities": [
+            { "activity": "Visit Padmanabhaswamy Temple & Museum", "cost_inr": 0 },
+            { "activity": "Evening leisure at Kovalam Beach", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 3,
+          "location": "Kovalam → Kumarakom",
+          "theme": "Backwater travel",
+          "activities": [
+            { "activity": "Enroute sightseeing at Kottayam", "cost_inr": 0 },
+            { "activity": "Stay at Waterscapes Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 4,
+          "location": "Kumarakom → Thekkady",
+          "theme": "Wildlife and spice gardens",
+          "activities": [
+            { "activity": "Transfer and sightseeing in Thekkady", "cost_inr": 0 },
+            { "activity": "Stay at Aranya Nivas", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 5,
+          "location": "Thekkady → Munnar",
+          "theme": "Hill station experience",
+          "activities": [
+            { "activity": "Drive to Munnar", "cost_inr": 0 },
+            { "activity": "Stay at Tea County Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 6,
+          "location": "Munnar",
+          "theme": "Explore Munnar",
+          "activities": [
+            { "activity": "Visit waterfalls, Tea Museum & gardens", "cost_inr": 300 }
+          ]
+        },
+        {
+          "day": 7,
+          "location": "Munnar → Kochi",
+          "theme": "City exploration",
+          "activities": [
+            { "activity": "Drive to Kochi & sightseeing", "cost_inr": 0 },
+            { "activity": "Stay at Bolgatty Island Resort", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 8,
+          "location": "Kochi",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Transfer to Cochin International Airport / Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "pricing_tiers": [
+        { "vehicle": "Etios/Sedan (2-3 pax)", "cost_inr": 65650 },
+        { "vehicle": "Innova (4-6 pax)", "cost_inr": 111090 },
+        { "vehicle": "Innova Crysta (4-6 pax)", "cost_inr": 118305 },
+        { "extra_person_cost_inr": 11172 }
+      ],
+      "package_includes": [
+        "Room rent with breakfast (fixed menu)",
+        "All transfers, sightseeing, and travel as per itinerary",
+        "Pickup/drop, parking, toll, and crew allowance"
+      ],
+      "package_excludes": [
+        "Entry fees, boating, lunch & dinner"
+      ],
+      "policies": {
+        "check_in": "13:00",
+        "check_out": "11:00",
+        "min_persons_required": 2,
+        "refund_policy": {
+          "7_days_before": "90% refund",
+          "3_days_before": "50% refund",
+          "less_than_3_days": "No refund"
+        },
+        "gst_policy": "Any change in GST rate will alter the above rates"
+      },
+      "best_months": ["Apr", "May", "Jun", "Jul", "Aug", "Sep"]
+    },
+    {
+      "id": "template_monsoon_premium_2025",
+      "name": "KTDC Premium Properties Monsoon Package 2025",
+      "duration_days": 3,
+      "theme": "monsoon_luxury_stay",
+      "target_audience": ["families", "couples", "premium_travelers"],
+      "validity_period": {
+        "from": "June 2025",
+        "to": "September 2025",
+        "excluded_dates": ["3 Sept 2025", "8 Sept 2025"],
+        "season": "Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 11999,
+        "max": 38999,
+        "avg": 19500
+      },
+      "properties": [
+        {
+          "property_name": "Aranya Nivas, Thekkady / Tea County, Munnar",
+          "base_category_inr": 11999,
+          "premium_category_inr": 12999,
+          "plan": "CPAI",
+          "extra_person_inr": 1500
+        },
+        {
+          "property_name": "Mascot, Trivandrum",
+          "base_category_inr": 12999,
+          "premium_category_inr": 14999,
+          "plan": "CPAI",
+          "extra_person_inr": 1500
+        },
+        {
+          "property_name": "Samudra, Kovalam",
+          "base_category_inr": 12999,
+          "premium_category_inr": 15999,
+          "plan": "CPAI",
+          "extra_person_inr": 1500
+        },
+        {
+          "property_name": "Waterscapes, Kumarakom",
+          "base_category_inr": 12999,
+          "premium_category_inr": 18999,
+          "plan": "CPAI",
+          "extra_person_inr": 1500
+        },
+        {
+          "property_name": "Lake Palace, Thekkady",
+          "base_category_inr": 38999,
+          "plan": "APAI",
+          "extra_person_inr": 4000
+        }
+      ],
+      "package_includes": [
+        "Accommodation for 2 nights & 3 days (for 2 adults + up to 2 children below 12 years)",
+        "Breakfast included (CPAI plan)",
+        "All taxes included"
+      ],
+      "special_benefits": [
+        "10% discount on additional food, beverages, and Ayurvedic massage",
+        "At Aranya Nivas: Jungle view provided",
+        "At Periyar House: Jungle view provided",
+        "At Ripple Land: Executive room provided"
+      ],
+      "package_excludes": [
+        "Lunch and dinner (except Lake Palace under APAI plan)",
+        "Transport and activities"
+      ],
+      "policies": {
+        "no_cancellation": true,
+        "no_TAC": true,
+        "room_availability": "Subject to availability at each property",
+        "notes": "Packages valid till September 2025, excluding Onam holidays (3–8 Sept 2025)"
+      },
+      "best_months": ["Jun", "Jul", "Aug", "Sep"]
+    },
+    {
+      "id": "template_monsoon_budget_2025",
+      "name": "KTDC Budget Properties Monsoon Package 2025",
+      "duration_days": 3,
+      "theme": "monsoon_affordable_getaway",
+      "target_audience": ["families", "budget_travelers", "couples"],
+      "validity_period": {
+        "from": "June 2025",
+        "to": "September 2025",
+        "excluded_dates": ["3 Sept 2025", "8 Sept 2025"],
+        "season": "Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 4999,
+        "max": 9555,
+        "avg": 7000
+      },
+      "properties": [
+        {
+          "property_name": "Ripple Land, Alappuzha",
+          "base_category_inr": 4999,
+          "premium_category_inr": 5555,
+          "plan": "CPAI",
+          "extra_person_inr": 1000
+        },
+        {
+          "property_name": "Aqua Land, Kollam / Garden House, Malampuzha",
+          "base_category_inr": 5555,
+          "premium_category_inr": 6555,
+          "plan": "CPAI",
+          "extra_person_inr": 1000
+        },
+        {
+          "property_name": "Periyar House, Thekkady / Kumarakom Gateway",
+          "base_category_inr": 8555,
+          "premium_category_inr": 9555,
+          "plan": "CPAI",
+          "extra_person_inr": 1000
+        }
+      ],
+      "package_includes": [
+        "Accommodation for 2 nights & 3 days (for 2 adults + up to 2 children below 12 years)",
+        "Breakfast included (CPAI plan)",
+        "All taxes included"
+      ],
+      "special_benefits": [
+        "10% discount on food, beverages, and Ayurvedic massage",
+        "Applicable for couples and families with children under 15 years",
+        "Executive or jungle-view rooms at select properties"
+      ],
+      "package_excludes": [
+        "Lunch and dinner",
+        "Transportation"
+      ],
+      "policies": {
+        "no_cancellation": true,
+        "no_TAC": true,
+        "room_availability": "Subject to availability at property",
+        "notes": "Packages valid till September 2025, excluding Onam holidays (3–8 Sept 2025)"
+      },
+      "best_months": ["Jun", "Jul", "Aug", "Sep"]
+    },
+    {
+      "id": "template_monsoon_tamarind_2025",
+      "name": "KTDC Tamarind Easy Hotels Monsoon Package 2025",
+      "duration_days": 3,
+      "theme": "monsoon_value_stay",
+      "target_audience": ["families", "solo_travelers", "budget_travelers"],
+      "validity_period": {
+        "from": "June 2025",
+        "to": "September 2025",
+        "excluded_dates": ["3 Sept 2025", "8 Sept 2025"],
+        "season": "Monsoon"
+      },
+      "budget_range_inr": {
+        "min": 4555,
+        "max": 4555,
+        "avg": 4555
+      },
+      "properties": [
+        {
+          "property_name": "Tamarind Easy Hotel, Mannarkkad",
+          "base_category_inr": 4555,
+          "plan": "CPAI",
+          "extra_person_inr": 500
+        },
+        {
+          "property_name": "Tamarind Easy Hotel, Nilambur",
+          "base_category_inr": 4555,
+          "plan": "CPAI",
+          "extra_person_inr": 500
+        },
+        {
+          "property_name": "Tamarind Easy Hotel, Kondotty",
+          "base_category_inr": 4555,
+          "plan": "CPAI",
+          "extra_person_inr": 500
+        }
+      ],
+      "package_includes": [
+        "Accommodation for 2 nights & 3 days (for 2 adults + up to 2 children below 12 years)",
+        "Breakfast included (CPAI plan)",
+        "All taxes included"
+      ],
+      "special_benefits": [
+        "10% discount on food, beverages, and Ayurvedic massage",
+        "Applicable to couples or families with up to two children",
+        "Same rate for all Tamarind Easy Hotels"
+      ],
+      "package_excludes": [
+        "Lunch and dinner",
+        "Transportation"
+      ],
+      "policies": {
+        "no_cancellation": true,
+        "no_TAC": true,
+        "room_availability": "Subject to availability at property"
+      },
+      "best_months": ["Jun", "Jul", "Aug", "Sep"]
+    },
+        {
+            "id": "template_munnar_tour_2d",
+            "name": "Munnar – Cochin 2 Days / 1 Night Tour Package",
+            "duration_days": 2,
+            "theme": "hillstation_short_escape",
+            "target_audience": ["couples", "families", "weekend_travelers", "nature_lovers"],
+            "budget_range_inr": {
+            "min": 5200,
+            "max": 5200,
+            "avg": 5200
+        },
+        "route": [
+            {
+                "day": 1,
+                "location": "Cochin → Munnar",
+                "theme": "Arrival and scenic transfer with waterfalls & plantations",
+                "activities": [
+            {
+            "time": "09:00",
+            "activity": "Pickup from Cochin and transfer to Munnar",
+            "cost_inr": 0
+            },
+            {
+            "time": "12:00",
+            "activity": "Visit Cheeyappara and Valara Waterfalls",
+            "duration_hours": 1.5,
+            "cost_inr": 0
+            },
+            {
+            "time": "14:00",
+            "activity": "Visit Tea Plantations and Spice Garden",
+            "duration_hours": 2,
+            "cost_inr": 0
+            },
+            {
+            "time": "18:00",
+            "activity": "Check-in at hotel and relax",
+            "duration_hours": 0,
+            "cost_inr": 0
+            }
+        ],
+        "accommodation": {
+            "hotel_id": "view_munnar",
+            "room_type": "Deluxe",
+            "meal_plan": "CP",
+            "cost_inr": 0
+        },
+        "daily_budget_inr": 5200,
+        "logistics": {
+            "transport_mode": "Private A.C Vehicle",
+            "travel_time_hours": 4,
+            "notes": "Driver cum guide (English/Hindi speaking) provided for entire trip."
+        }
+        },
+        {
+        "day": 2,
+        "location": "Munnar → Cochin",
+        "theme": "Sightseeing and departure",
+        "activities": [
+            {
+            "time": "09:00",
+            "activity": "Visit Mattupetty Dam and nearby attractions",
+            "duration_hours": 2,
+            "cost_inr": 0
+            },
+            {
+            "time": "12:30",
+            "activity": "Check-out and proceed to Cochin Airport/Railway Station",
+            "duration_hours": 4,
+            "cost_inr": 0
+            }
+        ],
+        "daily_budget_inr": 0
+        }
+    ],
+    "package_includes": [
+        "Accommodation in base category room on twin sharing basis with breakfast (CP Plan)",
+        "All sightseeing, land transfer & inter-hotel transfer",
+        "Private A.C vehicle with English/Hindi speaking driver-cum-guide",
+        "All entry, permit, parking, and ferry charges",
+        "Child below 5 years complimentary"
+    ],
+    "package_excludes": [
+        "Porter charges, tips, wine, mineral water, phone bills, and personal expenses",
+        "Optional activities mentioned in the itinerary",
+        "Lunch and dinner (not included in CP plans)",
+        "Compulsory gala dinner on Christmas & New Year Eve (if applicable)",
+        "Services not specifically mentioned in inclusions"
+    ],
+    "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment and hotel availability check",
+        "hotel_availability": "If specified hotels unavailable, alternate options will be provided with rate adjustment",
+        "payment_policy": [
+        "Balance payment must be made before arrival (no cheque/DD accepted)",
+        "2.5% extra for online payment gateway bookings"
+        ],
+        "cancellation_policy": "No fixed cancellation policy; charges depend on hotel/vendor terms",
+        "disclaimer": [
+        "No hidden taxes or GST",
+        "Breakfast and refreshments not included on arrival day",
+        "Extra meals or adult charges to be paid directly as per hotel policy",
+        "Early check-in/late check-out subject to hotel availability and extra charges",
+        "Cab extra km usage will incur additional cost"
+        ],
+        "force_majeure": "Alternative arrangements will be made in case of bandh, strike, or natural calamities (extra expenses not included)"
+    },
+    "accommodation_details": [
+        {
+        "day": 1,
+        "destination": "Munnar",
+        "hotel_name": "View Munnar",
+        "room_type": "Deluxe",
+        "occupancy": "Twin Sharing",
+        "meal_plan": "CP"
+        }
+    ],
+    "operator": {
+        "name": "Pepper Holidays",
+        "contact_methods": ["Website Enquiry", "WhatsApp", "Direct Booking"]
+    },
+    "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+    "id": "template_kerala_budget_tour_2d",
+    "name": "Kerala Budget Tour – Munnar & Cochin (2 Days / 1 Night)",
+    "duration_days": 2,
+    "theme": "budget_hillstation_trip",
+    "target_audience": ["budget_travelers", "students", "families", "solo_travelers"],
+    "budget_range_inr": {
+        "min": 4500,
+        "max": 4500,
+        "avg": 4500
+    },
+    "route": [
+        {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "theme": "Arrival and scenic drive with waterfalls & plantations",
+        "activities": [
+            {
+            "time": "09:00",
+            "activity": "Pickup from Cochin and transfer to Munnar by private cab",
+            "cost_inr": 0
+            },
+            {
+            "time": "11:30",
+            "activity": "Visit Cheeyappara & Valara Waterfalls",
+            "duration_hours": 1.5,
+            "cost_inr": 0
+            },
+            {
+            "time": "14:00",
+            "activity": "Explore Tea Plantations and Spice Garden",
+            "duration_hours": 2,
+            "cost_inr": 0
+            },
+            {
+            "time": "17:30",
+            "activity": "Check-in at hotel (Nest Munnar) and relax",
+            "duration_hours": 0,
+            "cost_inr": 0
+            }
+        ],
+        "accommodation": {
+            "hotel_id": "nest_munnar",
+            "room_type": "Standard",
+            "meal_plan": "CP",
+            "cost_inr": 0
+        },
+        "daily_budget_inr": 4500,
+        "logistics": {
+            "transport_mode": "Private A.C Vehicle",
+            "travel_time_hours": 4,
+            "notes": "English/Hindi-speaking driver-cum-guide provided throughout the trip."
+        }
+        },
+        {
+        "day": 2,
+        "location": "Munnar → Cochin",
+        "theme": "Sightseeing and departure",
+        "activities": [
+            {
+            "time": "08:30",
+            "activity": "Breakfast and checkout from the hotel",
+            "cost_inr": 0
+            },
+            {
+            "time": "09:30",
+            "activity": "Visit Mattupetty Dam and nearby attractions",
+            "duration_hours": 2,
+            "cost_inr": 0
+            },
+            {
+            "time": "12:30",
+            "activity": "Drive back to Cochin Airport/Railway Station for departure",
+            "duration_hours": 4,
+            "cost_inr": 0
+            }
+        ]
+        }
+    ],
+    "package_includes": [
+        "Standard room accommodation on twin sharing basis with breakfast (CP Plan)",
+        "All sightseeing, land transfers & inter-hotel transfers by private A.C vehicle",
+        "English/Hindi speaking friendly driver-cum-guide",
+        "All entry, permit, parking, and ferry charges",
+        "Child below 5 years complimentary"
+    ],
+    "package_excludes": [
+        "Porterage, tips, insurance, wine, mineral water, phone bills, and personal expenses",
+        "Optional activities mentioned in the itinerary",
+        "Lunch and dinner (not included in CP plan)",
+        "Compulsory Gala Dinner on Christmas & New Year Eve (if applicable)",
+        "Any services not specifically mentioned in inclusions"
+    ],
+    "policies": {
+        "confirmation_policy": "Booking confirmed only after advance payment and hotel availability verification.",
+        "hotel_availability": "If specified hotel unavailable, alternate hotels will be suggested with rate adjustment.",
+        "payment_policy": [
+        "Balance payment to be made before arrival (no cheques/DD accepted).",
+        "2.5% extra charges for online payment gateway bookings."
+        ],
+        "cancellation_policy": "Standard cancellation policy applies as per hotel/vendor terms.",
+        "disclaimer": [
+        "No hidden charges, taxes, VAT, or GST.",
+        "Breakfast and refreshments not included on arrival day.",
+        "Extra adult/kid meals or beds must be paid directly at hotel as per policy.",
+        "Early check-in/late check-out subject to hotel availability and additional charges.",
+        "Extra cab usage beyond itinerary will incur additional per km cost."
+        ],
+        "force_majeure": "Alternative arrangements will be made in case of bandh, strike, or natural calamities; extra expenses not included."
+    },
+    "accommodation_details": [
+        {
+        "day": 1,
+        "destination": "Munnar",
+        "hotel_name": "Nest Munnar",
+        "room_type": "Standard",
+        "occupancy": "Twin Sharing",
+        "meal_plan": "CP"
+        }
+    ],
+    "operator": {
+        "name": "Pepper Holidays",
+        "contact_methods": ["Website Enquiry", "WhatsApp", "Direct Booking"]
+    },
+    "best_months": ["Sep", "Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+        {
+        "id": "template_standard_munnar_alleppey_3d2n",
+        "name": "3 Days / 2 Nights Standard Munnar–Alleppey Tour Package",
+        "duration_days": 3,
+        "theme": "hill_backwater_combo",
+        "target_audience": ["couples", "families", "first_time_visitors"],
+        "budget_range_inr": {
+            "min": 7500,
+            "max": 7500,
+            "avg": 7500
+        },
+        "route": [
+            {
+            "day": 1,
+            "location": "Cochin → Munnar",
+            "theme": "Arrival & drive to Munnar",
+            "activities": [
+                { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+                { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 }
+            ],
+            "accommodation": {
+                "hotel_id": "view_munnar",
+                "room_type": "Deluxe",
+                "meal_plan": "CP",
+                "cost_inr": 0
+            }
+            },
+            {
+            "day": 2,
+            "location": "Munnar → Alleppey (Houseboat)",
+            "theme": "Backwater cruise",
+            "activities": [
+                { "activity": "Drive to Alleppey", "cost_inr": 0 },
+                { "activity": "Houseboat cruise through scenic backwaters", "cost_inr": 0 }
+            ],
+            "accommodation": {
+                "hotel_id": "houseboat_alleppey_standard",
+                "meal_plan": "CP",
+                "cost_inr": 0
+            }
+            },
+            {
+            "day": 3,
+            "location": "Alleppey → Cochin",
+            "theme": "Sightseeing & departure",
+            "activities": [
+                { "activity": "Explore Cochin – Fort Kochi, Chinese Nets, Mattancherry", "cost_inr": 0 },
+                { "activity": "Transfer to Airport/Railway Station", "cost_inr": 0 }
+            ]
+            }
+        ],
+        "package_includes": [
+            "Accommodation on twin sharing basis",
+            "All sightseeing, land transfers & inter-hotel transfer",
+            "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+            "Breakfast included",
+            "Child below 5 years complimentary"
+        ],
+        "package_excludes": [
+            "Lunch & Dinner (in CP Plan)",
+            "Tips, insurance, telephone, personal nature expenses",
+            "Any services not mentioned"
+        ],
+        "policies": {
+            "confirmation_policy": "Booking after advance payment & hotel availability",
+            "payment_terms": "Balance before arrival; 2.5% card charge for online bookings",
+            "cancellation_policy": "As per vendor/hotel terms",
+            "notes": "No hidden taxes. Breakfast not included on arrival day. Extra adult/child charges to be paid directly."
+        },
+        "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+        },
+        {
+        "id": "template_deluxe_munnar_alleppey_3d2n",
+        "name": "3 Days / 2 Nights Deluxe Munnar–Alleppey Tour Package",
+        "duration_days": 3,
+        "theme": "luxury_hill_backwater",
+        "target_audience": ["honeymooners", "luxury_travelers", "families"],
+        "budget_range_inr": {
+            "min": 8600,
+            "max": 8600,
+            "avg": 8600
+        },
+        "route": [
+            {
+            "day": 1,
+            "location": "Cochin → Munnar",
+            "theme": "Arrival & drive to Munnar",
+            "activities": [
+                { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+                { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 }
+            ],
+            "accommodation": {
+                "hotel_id": "sprise_munnar_resort_spa",
+                "room_type": "Marvelous Mountain View",
+                "meal_plan": "CP",
+                "cost_inr": 0
+            }
+            },
+            {
+            "day": 2,
+            "location": "Munnar → Alleppey (Deluxe Houseboat)",
+            "theme": "Luxury backwater cruise",
+            "activities": [
+                { "activity": "Drive to Alleppey", "cost_inr": 0 },
+                { "activity": "Enjoy houseboat cruise with meals on board", "cost_inr": 0 }
+            ],
+            "accommodation": {
+                "hotel_id": "houseboat_alleppey_deluxe",
+                "meal_plan": "CP",
+                "cost_inr": 0
+            }
+            },
+            {
+            "day": 3,
+            "location": "Alleppey → Cochin",
+            "theme": "Departure",
+            "activities": [
+                { "activity": "Explore Cochin (optional sightseeing)", "cost_inr": 0 },
+                { "activity": "Transfer to Airport/Railway Station", "cost_inr": 0 }
+            ]
+            }
+        ],
+        "package_includes": [
+            "Deluxe accommodation on twin sharing basis",
+            "All sightseeing, land transfers & inter-hotel transfer",
+            "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+            "Breakfast included",
+            "Child below 5 years complimentary"
+        ],
+        "package_excludes": [
+            "Lunch & Dinner (in CP Plan)",
+            "Tips, insurance, telephone, personal nature expenses",
+            "Any services not mentioned"
+        ],
+        "policies": {
+            "confirmation_policy": "Booking after advance payment & hotel availability",
+            "payment_terms": "Balance before arrival; 2.5% card charge for online bookings",
+            "cancellation_policy": "As per vendor/hotel terms",
+            "notes": "No hidden taxes. Breakfast not included on arrival day. Extra adult/child charges to be paid directly."
+        },
+        "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+        },
+        {
+        "id": "template_deluxe_kerala_4d3n",
+        "name": "4 Days / 3 Nights Deluxe Kerala Tour Package",
+        "duration_days": 4,
+        "theme": "premium_nature_culture",
+        "target_audience": ["families", "culture_lovers", "nature_enthusiasts"],
+        "budget_range_inr": {
+        "min": 18350,
+        "max": 18350,
+        "avg": 18350
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Tea Gardens",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Visit Spice Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "sprise_munnar_resort_spa",
+            "room_type": "Marvelous Mountain View",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife & Spice Plantation",
+          "activities": [
+            { "activity": "Transfer to Thekkady & visit Periyar Wildlife Sanctuary", "cost_inr": 0 },
+            { "activity": "Spice garden visit", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "casa_bella_thekkady",
+            "room_type": "Premium Cottage",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Thekkady → Alleppey",
+          "theme": "Backwater Cruise",
+          "activities": [
+            { "activity": "Drive to Alleppey & board deluxe houseboat", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "abad_turtle_beach_alleppey",
+            "room_type": "Beach Cottage",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Alleppey → Cochin",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Explore Cochin attractions", "cost_inr": 0 },
+            { "activity": "Transfer to Airport/Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis",
+        "All sightseeing, land transfers & inter-hotel transfer",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included",
+        "Child below 5 years complimentary"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, telephone, personal nature expenses",
+        "Any services not mentioned"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking after advance payment & hotel availability",
+        "payment_terms": "Balance before arrival; 2.5% card charge for online bookings",
+        "cancellation_policy": "As per vendor/hotel terms",
+        "notes": "No hidden taxes. Breakfast not included on arrival day. Extra adult/child charges to be paid directly."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_varkala_4d3n",
+      "name": "4 Days / 3 Nights Standard Varkala Tour Package",
+      "duration_days": 4,
+      "theme": "beach_cliff_retreat",
+      "target_audience": ["beach_lovers", "yoga_enthusiasts", "couples", "families"],
+      "budget_range_inr": {
+        "min": 24400,
+        "max": 24400,
+        "avg": 24400
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Arrival at Varkala",
+          "theme": "Cliffside beach leisure",
+          "activities": [
+            { "activity": "Check-in at beach resort", "cost_inr": 0 },
+            { "activity": "Relax at Varkala Cliff & watch sunset", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "coral_cove_beach_resort_varkala",
+            "room_type": "Standard",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Varkala",
+          "theme": "Local sightseeing & beach day",
+          "activities": [
+            { "activity": "Visit Janardanaswamy Temple, Black Sand Beach, Varkala Aquarium", "cost_inr": 0 },
+            { "activity": "Evening visit to Kappil Beach", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 3,
+          "location": "Varkala → Kollam (Day Trip)",
+          "theme": "Backwaters & cultural exploration",
+          "activities": [
+            { "activity": "Boat ride in Ashtamudi Lake, visit Thangassery Lighthouse", "cost_inr": 0 }
+          ]
+        },
+        {
+          "day": 4,
+          "location": "Varkala → Cochin",
+          "theme": "Departure via Cochin",
+          "activities": [
+            { "activity": "Transfer to Cochin, optional sightseeing", "cost_inr": 0 },
+            { "activity": "Departure from Cochin Airport/Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Accommodation twin sharing basis",
+        "All sightseeing, land transfers & inter-hotel transfer",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included",
+        "Child below 5 years complimentary"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, telephone, personal nature expenses",
+        "Any services not mentioned"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking after advance payment & hotel availability",
+        "payment_terms": "Balance before arrival; 2.5% card charge for online bookings",
+        "cancellation_policy": "As per vendor/hotel terms",
+        "notes": "No hidden taxes. Breakfast not included on arrival day. Extra adult/child charges to be paid directly."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_munnar_varkala_5d4n",
+      "name": "5 Days / 4 Nights Standard Munnar-Varkala Tour Package",
+      "duration_days": 5,
+      "theme": "hill_beach_combo",
+      "target_audience": ["families", "couples", "nature_lovers", "spiritual_seekers"],
+      "budget_range_inr": {
+        "min": 15300,
+        "max": 15300,
+        "avg": 15300
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Waterfalls Enroute",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Tea Plantations & Spice Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill Station Exploration",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park", "cost_inr": 200 },
+            { "activity": "Explore Tea Museum & Mattupetty Dam", "cost_inr": 0 },
+            { "activity": "Stop at Echo Point, Kundala Lake & Pothamedu Viewpoint", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Varkala",
+          "theme": "Scenic Drive & Beach Arrival",
+          "activities": [
+            { "activity": "Drive to Varkala (5–6 hrs)", "cost_inr": 0 },
+            { "activity": "Relax at Varkala Beach", "cost_inr": 0 },
+            { "activity": "Evening walk along cliff cafés & markets", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "coral_cove_varkala",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Varkala",
+          "theme": "Temple & Beach Exploration",
+          "activities": [
+            { "activity": "Visit Janardanaswamy Temple (2000 years old)", "cost_inr": 0 },
+            { "activity": "Explore Black Sand Beach & Varkala Aquarium", "cost_inr": 0 },
+            { "activity": "Relax at Kappil Beach & sunset at Varkala Beach", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "coral_cove_varkala",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Varkala → Cochin",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Drive back to Cochin", "cost_inr": 0 },
+            { "activity": "Drop at railway station / airport", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis",
+        "Breakfast included (CP plan)",
+        "All sightseeing, land transfers & inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi speaking driver-guide",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, personal expenses, telephone, laundry",
+        "Optional activities and Ayurvedic treatments",
+        "Compulsory Gala Dinner (if applicable)",
+        "Any services not mentioned in inclusions"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment & hotel availability",
+        "payment_terms": "Full payment before arrival; 2.5% online card charge",
+        "cancellation_policy": "Standard Kerala Tourism cancellation policy",
+        "notes": "No hidden taxes. Breakfast not included on arrival day. Extra meals/beds chargeable directly. Alternate hotels may affect rate."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_munnar_thekkady_alleppey_rameshwaram_6d5n",
+      "name": "6 Days / 5 Nights Munnar-Thekkady-Alleppey-Rameshwaram Tour Package",
+      "duration_days": 6,
+      "theme": "hill_wildlife_backwater_pilgrimage",
+      "target_audience": ["families", "nature_lovers", "spiritual_travelers"],
+      "budget_range_inr": {
+        "min": 15300,
+        "max": 15300,
+        "avg": 15300
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Scenic Drive",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Check-in at Munnar hotel", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill Station Exploration",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park", "cost_inr": 200 },
+            { "activity": "Tea Museum, Mattupetty Dam, Echo Point, Kundala Lake", "cost_inr": 0 },
+            { "activity": "Pothamedu Viewpoint & Botanical Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife & Culture",
+          "activities": [
+            { "activity": "Transfer to Thekkady (4 hrs)", "cost_inr": 0 },
+            { "activity": "Periyar Tiger Reserve Safari & Spice Garden Visit", "cost_inr": 500 },
+            { "activity": "Optional: Kathakali, Martial Arts, Ayurvedic Massage", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "spice_inn_thekkady",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Thekkady → Alleppey",
+          "theme": "Backwaters & Houseboat Stay",
+          "activities": [
+            { "activity": "Transfer to Alleppey", "cost_inr": 0 },
+            { "activity": "Board traditional houseboat cruise", "cost_inr": 0 },
+            { "activity": "Enjoy meals on board & overnight stay", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "serena_stay_alleppey",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Alleppey → Rameshwaram",
+          "theme": "Pilgrimage Exploration",
+          "activities": [
+            { "activity": "Visit Ramanathaswamy Temple & Pamban Bridge", "cost_inr": 0 },
+            { "activity": "Relax at Dhanushkodi Beach", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "rameshwaram_grand",
+            "room_type": "Superior Double",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 6,
+          "location": "Rameshwaram → Cochin",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Drive back to Cochin", "cost_inr": 0 },
+            { "activity": "Drop-off at station/airport", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis",
+        "Breakfast included (CP plan)",
+        "All sightseeing, transfers & inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, wine, mineral water, and personal expenses",
+        "Optional activities & massages",
+        "Gala Dinner on X’mas/New Year if applicable",
+        "Any service not mentioned"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking after advance payment & hotel availability",
+        "payment_terms": "Full payment before arrival; 2.5% online card charge applies",
+        "cancellation_policy": "No refund for cancellations under 3 days; partial refund up to 7 days prior",
+        "notes": "No hidden taxes. Alternate hotels may affect rate. Extra beds/food chargeable directly at hotel."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_munnar_varkala_cochin_6d5n",
+      "name": "6 Days / 5 Nights Standard Munnar–Varkala–Cochin Tour Package",
+      "duration_days": 6,
+      "theme": "hill_beach_city_combo",
+      "target_audience": ["families", "couples", "nature_lovers", "culture_seekers"],
+      "budget_range_inr": {
+        "min": 20200,
+        "max": 20200,
+        "avg": 20200
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Scenic Drive",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Tea Plantations & Spice Garden enroute", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill Station Exploration",
+          "activities": [
+            { "activity": "Visit Echo Point, Mattupetty Dam, and Photo Point", "cost_inr": 0 },
+            { "activity": "Visit Tea Museum (closed Mondays)", "cost_inr": 0 },
+            { "activity": "Explore Eravikulam National Park", "cost_inr": 200 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Varkala",
+          "theme": "Scenic Transfer & Beach Arrival",
+          "activities": [
+            { "activity": "Drive from Munnar to Varkala (5–6 hrs)", "cost_inr": 0 },
+            { "activity": "Relax at Varkala Beach", "cost_inr": 0 },
+            { "activity": "Walk along the cliff cafés and markets", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "coral_cove_varkala",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Varkala",
+          "theme": "Temple & Coastal Exploration",
+          "activities": [
+            { "activity": "Visit Janardanaswamy Temple (2000 years old)", "cost_inr": 0 },
+            { "activity": "Explore Black Sand Beach & Varkala Aquarium", "cost_inr": 0 },
+            { "activity": "Visit Kappil Beach & enjoy sunset at Varkala Beach", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "coral_cove_varkala",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Varkala → Cochin",
+          "theme": "Cultural Sightseeing",
+          "activities": [
+            { "activity": "Drive to Cochin", "cost_inr": 0 },
+            { "activity": "Check-in at Cochin Legacy Vyitilla", "cost_inr": 0 },
+            { "activity": "Explore Fort Kochi, St. Francis Church, Chinese Fishing Nets", "cost_inr": 0 },
+            { "activity": "Visit Mattancherry Palace, Jewish Synagogue, Marine Drive", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "cochin_legacy_vyitilla",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 6,
+          "location": "Cochin",
+          "theme": "Departure & Shopping",
+          "activities": [
+            { "activity": "Morning shopping in Cochin local markets", "cost_inr": 0 },
+            { "activity": "Drop-off at Cochin Airport/Railway Station", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "cochin_legacy_vyitilla",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis (CP Plan)",
+        "All sightseeing, land transfers, and inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included at all hotels",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, wine, mineral water, and personal expenses",
+        "Optional activities and Ayurvedic massages",
+        "Compulsory Gala Dinner (if applicable)",
+        "Any services not specifically mentioned in inclusions"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment and subject to hotel availability",
+        "payment_terms": "Balance payment before arrival (2.5% card charge for online payments)",
+        "cancellation_policy": "Refund as per policy — 90% refund if cancelled 7 days prior, 50% if 3 days prior, none after",
+        "notes": "Rates valid for mentioned period only. Breakfast not included on arrival day. Extra bed/meal charges payable directly at hotel. Alternate hotels may affect rate."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_deluxe_kerala_munnar_wayanad_7d6n",
+      "name": "7 Days / 6 Nights Deluxe Kerala Tour Package",
+      "duration_days": 7,
+      "theme": "luxury_hill_backwater_wildlife_beach",
+      "target_audience": ["families", "luxury_travelers", "nature_enthusiasts", "honeymooners"],
+      "budget_range_inr": {
+        "min": 33750,
+        "max": 33750,
+        "avg": 33750
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Scenic Waterfalls",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Tea Plantations & Spice Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "abad_plaza_munnar",
+            "room_type": "Superior Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill Station Exploration",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park", "cost_inr": 200 },
+            { "activity": "Visit Tea Museum, Mattupetty Dam, Echo Point, Kundala Lake", "cost_inr": 0 },
+            { "activity": "Visit Pothamedu Viewpoint & Botanical Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "sprise_munnar_resort_spa",
+            "room_type": "Marvelous Mountain View",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife Adventure",
+          "activities": [
+            { "activity": "Transfer to Thekkady", "cost_inr": 0 },
+            { "activity": "Visit Periyar Tiger Reserve", "cost_inr": 500 },
+            { "activity": "Optional: Kathakali, Martial Arts, Elephant Ride, Massage", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "casa_bella_thekkady",
+            "room_type": "Premium Cottage",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Thekkady → Alleppey",
+          "theme": "Backwater Cruise",
+          "activities": [
+            { "activity": "Drive to Alleppey", "cost_inr": 0 },
+            { "activity": "Board traditional houseboat & cruise through Vembanadu Lake", "cost_inr": 0 },
+            { "activity": "Enjoy onboard meals and overnight stay", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "abad_turtle_beach_alleppey",
+            "room_type": "Beach Cottage",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Alleppey → Wayanad",
+          "theme": "Transfer & Nature Exploration",
+          "activities": [
+            { "activity": "Drive to Wayanad", "cost_inr": 0 },
+            { "activity": "Visit Edakkal Caves, Pookode Lake & Soochipara Waterfalls", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "hotel_saffron_wayanad",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 6,
+          "location": "Wayanad",
+          "theme": "Wildlife & Waterfalls",
+          "activities": [
+            { "activity": "Visit Chembra Peak & Meenmutty Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Wayanad Wildlife Sanctuary", "cost_inr": 300 }
+          ],
+          "accommodation": {
+            "hotel_id": "hotel_saffron_wayanad",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 7,
+          "location": "Wayanad → Bangalore/Coimbatore",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Drive to Bangalore/Coimbatore for departure", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Deluxe accommodation on twin sharing basis (CP Plan)",
+        "All sightseeing, land transfers & inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, wine, mineral water, telephone, personal expenses",
+        "Optional activities and Ayurvedic massages",
+        "Compulsory Gala Dinner (if applicable)",
+        "Any service not mentioned in inclusions"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment & hotel availability",
+        "payment_terms": "Balance payment before arrival; 2.5% card charge online",
+        "cancellation_policy": "90% refund if cancelled 7 days prior, 50% refund 3 days prior, none thereafter",
+        "notes": "No hidden taxes. Breakfast not included on arrival day. Alternate hotels may alter pricing."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_munnar_kovalam_7d6n",
+      "name": "7 Days / 6 Nights Munnar–Kovalam Tour Package",
+      "duration_days": 7,
+      "theme": "hill_beach_combo",
+      "target_audience": ["families", "couples", "nature_lovers", "relaxation_seekers"],
+      "budget_range_inr": {
+        "min": 20850,
+        "max": 20850,
+        "avg": 20850
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin → Munnar",
+          "theme": "Arrival & Waterfalls Enroute",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport/Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Tea Plantations & Spice Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Munnar",
+          "theme": "Hill Station Sightseeing",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park", "cost_inr": 200 },
+            { "activity": "Mattupetty Dam, Echo Point, Kundala Lake, Tea Museum", "cost_inr": 0 },
+            { "activity": "Pothamedu Viewpoint & Botanical Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife & Cultural Experience",
+          "activities": [
+            { "activity": "Transfer to Thekkady & visit Periyar Tiger Reserve", "cost_inr": 500 },
+            { "activity": "Optional: Kathakali, Elephant Ride, Ayurvedic Massage", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "spice_inn_thekkady",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Thekkady → Alleppey",
+          "theme": "Backwater Cruise",
+          "activities": [
+            { "activity": "Transfer to Alleppey & board houseboat", "cost_inr": 0 },
+            { "activity": "Cruise through backwaters & enjoy onboard meals", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "no_hotel_alleppey_houseboat",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Alleppey → Kovalam",
+          "theme": "Beach Relaxation",
+          "activities": [
+            { "activity": "Drive to Kovalam", "cost_inr": 0 },
+            { "activity": "Relax at Lighthouse, Hawa, and Samudra Beaches", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "aadisakthi_resort_kovalam",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 6,
+          "location": "Kovalam",
+          "theme": "Local Exploration",
+          "activities": [
+            { "activity": "Visit Halcyon Castle & Vizhinjam Marine Aquarium", "cost_inr": 0 },
+            { "activity": "Relax at beaches or enjoy water activities", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "aadisakthi_resort_kovalam",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 7,
+          "location": "Kovalam → Cochin",
+          "theme": "Departure",
+          "activities": [
+            { "activity": "Drive to Cochin Airport/Railway Station", "cost_inr": 0 }
+          ]
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis (CP Plan)",
+        "All sightseeing, land transfers & inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, personal expenses, telephone, laundry",
+        "Optional activities and Ayurvedic massages",
+        "Gala Dinner (if applicable)",
+        "Any service not mentioned in inclusions"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment & hotel availability",
+        "payment_terms": "Balance before arrival; 2.5% card charge for online booking",
+        "cancellation_policy": "90% refund if cancelled 7 days prior; 50% refund if 3 days prior",
+        "notes": "Rates valid for mentioned period. Breakfast not included on arrival day. Extra meals/beds chargeable directly."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_standard_cochin_munnar_thekkady_alleppey_kovalam_athirapally_8d7n",
+      "name": "8 Days / 7 Nights Cochin–Munnar–Thekkady–Alleppey–Kovalam with Athirapally Waterfalls Tour Package",
+      "duration_days": 8,
+      "theme": "heritage_hill_wildlife_backwater_beach_waterfall",
+      "target_audience": ["families", "couples", "nature_lovers", "photography_enthusiasts"],
+      "budget_range_inr": {
+        "min": 25750,
+        "max": 25750,
+        "avg": 25750
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Cochin",
+          "theme": "Arrival & Heritage Exploration",
+          "activities": [
+            { "activity": "Pickup from Cochin Airport / Railway Station", "cost_inr": 0 },
+            { "activity": "Visit Fort Kochi, Chinese Fishing Nets, St. Francis Church, Santa Cruz Basilica", "cost_inr": 0 },
+            { "activity": "Relax at Cherai Beach & Marine Drive (if time permits)", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "cochin_legacy_vyitilla",
+            "room_type": "Standard",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 2,
+          "location": "Cochin → Munnar",
+          "theme": "Scenic Drive & Waterfalls",
+          "activities": [
+            { "activity": "Drive to Munnar (approx. 4 hrs)", "cost_inr": 0 },
+            { "activity": "Visit Cheeyappara & Valara Waterfalls", "cost_inr": 0 },
+            { "activity": "Explore Tea Plantations & Spice Gardens", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 3,
+          "location": "Munnar",
+          "theme": "Hill Station Sightseeing",
+          "activities": [
+            { "activity": "Visit Eravikulam National Park", "cost_inr": 200 },
+            { "activity": "Explore Mattupetty Dam, Echo Point & Kundala Lake", "cost_inr": 0 },
+            { "activity": "Visit Tea Museum, Pothamedu Viewpoint, Botanical Garden", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "tu_casa_resort_munnar",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 4,
+          "location": "Munnar → Thekkady",
+          "theme": "Wildlife & Cultural Experiences",
+          "activities": [
+            { "activity": "Transfer to Thekkady (approx. 4 hrs)", "cost_inr": 0 },
+            { "activity": "Explore Periyar Tiger Reserve", "cost_inr": 500 },
+            { "activity": "Optional: Kathakali, Kalaripayattu, Elephant Rides, Massage", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "spice_inn_thekkady",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 5,
+          "location": "Thekkady → Alleppey",
+          "theme": "Backwater Cruise Experience",
+          "activities": [
+            { "activity": "Drive to Alleppey (approx. 4–5 hrs)", "cost_inr": 0 },
+            { "activity": "Check into traditional houseboat & cruise", "cost_inr": 0 },
+            { "activity": "Explore backwaters & enjoy onboard meals", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "serena_stay_alleppey",
+            "room_type": "Deluxe Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 6,
+          "location": "Alleppey → Kovalam",
+          "theme": "Beach Relaxation",
+          "activities": [
+            { "activity": "Drive to Kovalam (approx. 4 hrs)", "cost_inr": 0 },
+            { "activity": "Relax at Lighthouse Beach, Hawa Beach & Samudra Beach", "cost_inr": 0 },
+            { "activity": "Optional: Swimming, surfing or local shopping", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "aadisakthi_resort_kovalam",
+            "room_type": "Standard Room",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 7,
+          "location": "Kovalam → Athirapally → Cochin",
+          "theme": "Waterfall Excursion",
+          "activities": [
+            { "activity": "Visit Athirapally Waterfalls ('Niagara of India')", "cost_inr": 100 },
+            { "activity": "Relax amidst lush forest views", "cost_inr": 0 },
+            { "activity": "Transfer back to Cochin", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "cochin_legacy_vyitilla",
+            "room_type": "Standard",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        },
+        {
+          "day": 8,
+          "location": "Cochin",
+          "theme": "Departure & Shopping",
+          "activities": [
+            { "activity": "Local shopping in Cochin markets", "cost_inr": 0 },
+            { "activity": "Drop-off at Airport/Railway Station", "cost_inr": 0 }
+          ],
+          "accommodation": {
+            "hotel_id": "cochin_legacy_vyitilla",
+            "room_type": "Standard",
+            "meal_plan": "CP",
+            "cost_inr": 0
+          }
+        }
+      ],
+      "package_includes": [
+        "Accommodation on twin sharing basis (CP Plan)",
+        "All sightseeing, land transfers & inter-hotel transfers",
+        "Private A.C. vehicle with English/Hindi-speaking driver-guide",
+        "Breakfast included at all hotels",
+        "Child below 5 years complimentary",
+        "All Entry, Monument, Permit, Parking, and Ferry Charges"
+      ],
+      "package_excludes": [
+        "Lunch & Dinner (in CP Plan)",
+        "Tips, insurance, mineral water, personal expenses",
+        "Optional activities like boating, elephant rides, massages",
+        "Gala Dinner (if applicable)",
+        "Any services not mentioned in inclusions"
+      ],
+      "policies": {
+        "confirmation_policy": "Booking confirmed after advance payment & hotel availability",
+        "payment_terms": "Full payment before arrival; 2.5% card charge for online booking",
+        "cancellation_policy": "90% refund if cancelled 7 days prior; 50% refund if cancelled 3 days prior; no refund after",
+        "notes": "Rates valid for mentioned period. Breakfast not included on arrival day. Alternate hotels may alter rate."
+      },
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_houseboat_indiavacationz_2d",
+      "name": "India Vacationz Houseboat Cruise, Alleppey",
+      "duration_days": 2,
+      "theme": "backwaters_houseboat_experience",
+      "target_audience": ["couples", "families", "nature_lovers"],
+      "budget_range_inr": {
+        "min": 8000,
+        "max": 12000,
+        "avg": 9500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey (Punnamada Backwaters)",
+          "theme": "Boarding & Backwater Cruise",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in at India Vacationz Houseboat at Punnamada Jetty",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Traditional Kerala lunch onboard",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "15:00",
+              "activity": "Backwater cruise through canals and villages",
+              "attraction_ids": ["attr_vembanad_lake", "attr_kuttanad_village"],
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Sunset viewing from the upper deck",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner onboard and optional live music performance",
+              "duration_hours": 2,
+              "cost_inr": 800
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "houseboat_indiavacationz",
+            "cost_inr": 8500,
+            "type": "Premium Houseboat Cabin (AC)"
+          },
+          "daily_budget_inr": 9800,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Cruising through Punnamada Lake and Kuttanad backwaters"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Check-out",
+          "activities": [
+            {
+              "time": "07:00",
+              "activity": "Morning tea/coffee on the deck watching sunrise",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "08:00",
+              "activity": "South Indian breakfast (idli, appam, stew)",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Optional canoeing or village walk (on request)",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "10:00",
+              "activity": "Disembark at Punnamada Jetty",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 700,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "walk",
+            "notes": "Guests depart for Kochi or nearby destinations"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Upgrade to private deluxe suite with balcony and spa massage",
+          "budget_impact": 2500,
+          "suitable_for": ["luxury_travelers", "honeymooners"]
+        }
+      ],
+      "packing_list": [
+        "light_cotton_clothes",
+        "sunscreen",
+        "mosquito_repellent",
+        "hat",
+        "camera"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_houseboat_symphony_2d",
+      "name": "Symphony Luxury Premium Cruise, Alleppey",
+      "duration_days": 2,
+      "theme": "luxury_backwater_experience",
+      "target_audience": ["honeymooners", "families", "photographers"],
+      "budget_range_inr": {
+        "min": 9500,
+        "max": 15000,
+        "avg": 12000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey Backwaters (Thathampally)",
+          "theme": "Luxury Cruise & Dining",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Board Symphony Luxury Houseboat and welcome drink",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch onboard featuring Kerala cuisine",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "14:00",
+              "activity": "Cruise along Alleppey canals with guide commentary",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:30",
+              "activity": "Photography and sunset from deck",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "19:30",
+              "activity": "Dinner with candlelight setup and soft music",
+              "duration_hours": 2,
+              "cost_inr": 1000
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "houseboat_symphony",
+            "type": "Premium Room with AC (24-hr)",
+            "cost_inr": 9500
+          },
+          "daily_budget_inr": 11100,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Covers Alleppey Lake and canal circuits"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Check-out",
+          "activities": [
+            {
+              "time": "06:30",
+              "activity": "Morning meditation or photography on the deck",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "08:00",
+              "activity": "Buffet breakfast onboard",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "09:30",
+              "activity": "Optional speed boating or Ayurvedic massage (on request)",
+              "duration_hours": 1,
+              "cost_inr": 1200
+            },
+            {
+              "time": "10:30",
+              "activity": "Check-out from houseboat and transfer to main jetty",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 1600,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "walk",
+            "notes": "End of cruise; transfers available to Kochi airport"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Include private speed boat ride and professional photo session",
+          "budget_impact": 3000,
+          "suitable_for": ["honeymooners", "content_creators"]
+        }
+      ],
+      "packing_list": [
+        "light_cotton_clothes",
+        "sunscreen",
+        "camera",
+        "sandals",
+        "sunglasses"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_eco_2d",
+      "name": "ECO Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "eco_backwater_experience",
+      "target_audience": ["eco_travelers", "couples", "nature_lovers"],
+      "budget_range_inr": {
+        "min": 9000,
+        "max": 13000,
+        "avg": 11000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey Backwaters",
+          "theme": "Eco-Cruise & Organic Dining",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Board ECO Houseboat at Alleppey Jetty; welcome drink and safety briefing",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Organic lunch featuring locally sourced ingredients",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "14:30",
+              "activity": "Solar-powered cruise through canals and coconut groves",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Sunset viewing from deck with tea and snacks",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "20:00",
+              "activity": "Candlelit dinner on the deck with soft music",
+              "duration_hours": 2,
+              "cost_inr": 800
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "eco_houseboat_alleppey",
+            "type": "Eco-Premium Room (Solar-powered AC)",
+            "cost_inr": 9500
+          },
+          "daily_budget_inr": 11000,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Anchors by evening near coconut groves under a starry sky"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Meditation & Village Exploration",
+          "activities": [
+            {
+              "time": "07:00",
+              "activity": "Morning meditation on the upper deck",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "08:00",
+              "activity": "Breakfast and check-out from the boat",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Optional canoe ride to nearby village",
+              "duration_hours": 1,
+              "cost_inr": 400
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 700,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Guests disembark at Alleppey Jetty by 10 AM"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add guided eco-tour and organic cooking class",
+          "budget_impact": 1200,
+          "suitable_for": ["eco_travelers", "families"]
+        }
+      ],
+      "packing_list": [
+        "light_cotton_clothes",
+        "sunscreen",
+        "hat",
+        "eco_friendly_toiletries",
+        "camera"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_kera_2d",
+      "name": "Kera Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "traditional_backwater_experience",
+      "target_audience": ["families", "honeymooners", "luxury_travelers"],
+      "budget_range_inr": {
+        "min": 9500,
+        "max": 14000,
+        "avg": 11500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey (Punnamada Lake)",
+          "theme": "Cruising & Kerala Cuisine",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Board Kera Houseboat; welcome drink and orientation",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Traditional Kerala lunch prepared by onboard chef",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Vembanad Lake and narrow canals",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Evening tea & snacks with sunset view from deck",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner and live cooking demonstration in marine kitchen",
+              "duration_hours": 2,
+              "cost_inr": 900
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "kera_houseboats",
+            "type": "Deluxe or Premium AC Room",
+            "cost_inr": 9000
+          },
+          "daily_budget_inr": 11000,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Cruise across Alleppey canals and backwater villages"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Village Walk & Ayurveda Massage",
+          "activities": [
+            {
+              "time": "07:00",
+              "activity": "Wake up to scenic backwater sunrise",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "08:00",
+              "activity": "Breakfast onboard with traditional appam and stew",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Optional village walk or Ayurvedic massage",
+              "duration_hours": 1,
+              "cost_inr": 800
+            },
+            {
+              "time": "10:00",
+              "activity": "Check-out and transfer to main jetty",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 1100,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "End of cruise; drop at Alleppey Jetty"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add candlelight dinner and flower decoration for honeymooners",
+          "budget_impact": 1500,
+          "suitable_for": ["couples", "honeymooners"]
+        }
+      ],
+      "packing_list": [
+        "cotton_clothes",
+        "hat",
+        "power_bank",
+        "mosquito_repellent",
+        "swimwear"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_houseboat_southernpanorama_2d",
+      "name": "Southern Panorama Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "authentic_kerala_backwaters",
+      "target_audience": ["families", "photographers", "culture_seekers"],
+      "budget_range_inr": {
+        "min": 10000,
+        "max": 15000,
+        "avg": 12500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Village Cruise & Cooking Experience",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in and welcome drink on Southern Panorama Houseboat",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch featuring Kerala seafood specialties",
+              "duration_hours": 1,
+              "cost_inr": 700
+            },
+            {
+              "time": "15:00",
+              "activity": "Guided village walk and live cooking demo onboard",
+              "duration_hours": 2,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:30",
+              "activity": "Evening canoe ride to explore narrow canals",
+              "duration_hours": 1.5,
+              "cost_inr": 400
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner on deck followed by live music performance",
+              "duration_hours": 2,
+              "cost_inr": 900
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "southern_panorama_houseboat",
+            "type": "Super Deluxe Room (AC 9 PM–6 AM)",
+            "cost_inr": 9500
+          },
+          "daily_budget_inr": 12500,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Covers Punnamada and Vembanad canal network"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "06:30",
+              "activity": "Morning tea and birdwatching from upper deck",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "08:00",
+              "activity": "Breakfast onboard and farewell from crew",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Fishing and photography (optional)",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "10:00",
+              "activity": "Check-out and disembarkation",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 500,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Guests dropped off at Punnamada Jetty by 10 AM"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add private fishing lesson and sunset photo session",
+          "budget_impact": 2000,
+          "suitable_for": ["photographers", "families"]
+        }
+      ],
+      "packing_list": [
+        "comfortable_clothes",
+        "sunscreen",
+        "hat",
+        "sandals",
+        "camera"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_pearlspot_2d",
+      "name": "Pearl Spot Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "serene_backwater_stay",
+      "target_audience": ["couples", "families", "nature_seekers"],
+      "budget_range_inr": {
+        "min": 5000,
+        "max": 7000,
+        "avg": 6500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Kannankara Jetty, Alappuzha",
+          "theme": "Arrival & Backwater Cruise",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Board Pearl Spot Houseboat at Kannankara Jetty and enjoy welcome drinks",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "14:00",
+              "activity": "Lunch on deck – Kerala vegetarian and seafood specialities",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Pallathuruthy Backwaters and Vembanad Lake",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Sunset viewing from sundeck and tea with snacks",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner on board featuring Kerala thali",
+              "duration_hours": 2,
+              "cost_inr": 600
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "pearlspot_houseboat",
+            "type": "AC Deluxe Sharing Room (144 sq. ft.)",
+            "cost_inr": 5082
+          },
+          "daily_budget_inr": 6332,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Anchored overnight near Pallathuruthy Backwaters"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "07:00",
+              "activity": "Enjoy breakfast with lake view",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "08:30",
+              "activity": "Short morning cruise before disembarkation",
+              "duration_hours": 1,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 200,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Guests disembark by 9 AM and can transfer to Kochi or Alappuzha town"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Upgrade to private premium houseboat with balcony and flower setup",
+          "budget_impact": 2500,
+          "suitable_for": ["honeymooners"]
+        }
+      ],
+      "packing_list": ["cotton_clothes", "hat", "sunscreen", "camera", "sandals"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_upperdeck_2d",
+      "name": "Upper Deck Houseboats, Alappuzha",
+      "duration_days": 2,
+      "theme": "luxury_family_houseboat",
+      "target_audience": ["families", "corporate_retreats", "leisure_travelers"],
+      "budget_range_inr": {
+        "min": 3500,
+        "max": 4500,
+        "avg": 4200
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Valiyarayil, Near Fishing Point",
+          "theme": "Day Cruise & Leisure Activities",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Board the Upper Deck Houseboat; welcome drink served",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:30",
+              "activity": "Lunch at onboard restaurant with Kerala and continental menu",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Alappuzha backwaters; visit Revi Karunakaran Museum en route",
+              "duration_hours": 2,
+              "cost_inr": 200
+            },
+            {
+              "time": "17:30",
+              "activity": "Evening snacks and bonfire on deck (paid)",
+              "duration_hours": 1,
+              "cost_inr": 300
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "upperdeck_houseboat",
+            "type": "Day Cruise (1 PM – 5:30 PM)",
+            "cost_inr": 3284
+          },
+          "daily_budget_inr": 4184,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Same day check-out from the cruise; non-AC"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Add Ayurvedic massage and extended sunset cruise",
+          "budget_impact": 1000,
+          "suitable_for": ["wellness_seekers"]
+        }
+      ],
+      "packing_list": ["comfortable_clothes", "hat", "camera", "sunblock", "light_shoes"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_venice_2d",
+      "name": "Venice Premium Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "shared_luxury_backwaters",
+      "target_audience": ["solo_travelers", "small_groups", "luxury_seekers"],
+      "budget_range_inr": {
+        "min": 10000,
+        "max": 13000,
+        "avg": 12500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey Jetty",
+          "theme": "Shared Cruise & Cultural Evening",
+          "activities": [
+            {
+              "time": "12:30",
+              "activity": "Check-in to Venice Premium Houseboat; welcome drink and safety briefing",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch prepared by in-house chef; enjoy scenic dining with lake views",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through backwaters, meet co-travelers and enjoy onboard games",
+              "duration_hours": 2,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:30",
+              "activity": "Hi-tea and sunset relaxation on deck",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "19:30",
+              "activity": "Communal dinner and live Kerala folk performance",
+              "duration_hours": 2,
+              "cost_inr": 800
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "venice_premium_houseboat",
+            "type": "Premium AC Sharing Room (8 PM – 6 AM)",
+            "cost_inr": 10267
+          },
+          "daily_budget_inr": 11867,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Shared cruise experience with luxury setup and common lounge"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Check-out",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast and farewell with fellow travelers",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Optional walk along Vembanad lake edge",
+              "duration_hours": 1,
+              "cost_inr": 0
+            },
+            {
+              "time": "10:00",
+              "activity": "Check-out from Venice Premium Houseboat",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": {
+            "hotel_id": null,
+            "cost_inr": 0
+          },
+          "daily_budget_inr": 300,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "End of shared cruise; return to Alleppey Jetty"
+          }
+        }
+      ],
+      "customization_points": [
+        {
+          "day": 1,
+          "alternative": "Upgrade to private room or add extended night cruise",
+          "budget_impact": 2000,
+          "suitable_for": ["luxury_seekers", "solo_travelers"]
+        }
+      ],
+      "packing_list": ["comfortable_clothes", "hat", "power_bank", "mosquito_repellent", "camera"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_bestkerala_2d",
+      "name": "Best Kerala Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "luxury_backwater_experience",
+      "target_audience": ["business_travelers", "couples", "families"],
+      "budget_range_inr": {
+        "min": 9000,
+        "max": 11500,
+        "avg": 10000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alappuzha",
+          "theme": "Cruise & Business Leisure",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in at Best Kerala Houseboat; welcome drink and introduction",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Buffet lunch with South Indian delicacies",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "15:00",
+              "activity": "Houseboat cruise through Punnamada Lake and canals",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Evening music on deck with coffee and snacks",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner at onboard restaurant (Halal/Kosher options)",
+              "duration_hours": 1.5,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "bestkerala_houseboat",
+            "type": "Deluxe Non-AC Sharing Room",
+            "cost_inr": 9478
+          },
+          "daily_budget_inr": 11000,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Anchored near Punnamada Lake for overnight stay"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Leisure & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast with lake view on deck",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Short canoe ride or photography session",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "10:00",
+              "activity": "Disembarkation and departure",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": { "hotel_id": null, "cost_inr": 0 },
+          "daily_budget_inr": 500,
+          "logistics": { "transport_mode": "boat", "notes": "Check-out at 9 AM" }
+        }
+      ],
+      "packing_list": ["cotton_clothes", "sunscreen", "hat", "camera"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_keralahouseboats_1d",
+      "name": "Kerala Houseboats, Thathampally",
+      "duration_days": 1,
+      "theme": "traditional_backwater_daycruise",
+      "target_audience": ["families", "groups", "budget_travelers"],
+      "budget_range_inr": {
+        "min": 3000,
+        "max": 4500,
+        "avg": 3200
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Thathampally, Alleppey",
+          "theme": "Day Cruise & Sightseeing",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Board houseboat and welcome drink served",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:30",
+              "activity": "Lunch on board with Kerala thali",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise along Punnamada Lake; visit lighthouse and beaches",
+              "duration_hours": 2,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:30",
+              "activity": "Hi-tea and sunset deck experience",
+              "duration_hours": 1,
+              "cost_inr": 100
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "kerala_houseboats",
+            "type": "Day Cruise (Non-AC)",
+            "cost_inr": 3042
+          },
+          "daily_budget_inr": 3542,
+          "logistics": {
+            "travel_time_hours": 0,
+            "transport_mode": "boat",
+            "notes": "Day-use only, check-in 1 PM, check-out 5:30 PM"
+          }
+        }
+      ],
+      "packing_list": ["cotton_clothes", "sunglasses", "camera", "hat"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_cosy_2d",
+      "name": "Cosy Houseboats, Thathampally",
+      "duration_days": 2,
+      "theme": "premium_backwater_experience",
+      "target_audience": ["families", "couples", "foreign_tourists"],
+      "budget_range_inr": {
+        "min": 2800,
+        "max": 4000,
+        "avg": 3600
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "The Great Backwater, Alleppey",
+          "theme": "Scenic Cruise & Sunset Views",
+          "activities": [
+            {
+              "time": "12:30",
+              "activity": "Check-in to Cosy Houseboats; welcome drink",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch featuring Kerala seafood platter",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "14:30",
+              "activity": "Cruise through The Great Backwater & local fishing points",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Sunset view with tea and snacks",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner onboard followed by soft music",
+              "duration_hours": 2,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "cosy_houseboats",
+            "type": "Deluxe or Premium AC Room (8 PM – 6 AM)",
+            "cost_inr": 2846
+          },
+          "daily_budget_inr": 4196,
+          "logistics": {
+            "transport_mode": "boat",
+            "notes": "Anchored overnight at Thathampally Backwaters"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Check-out",
+          "activities": [
+            {
+              "time": "07:00",
+              "activity": "Breakfast with lake view",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "08:30",
+              "activity": "Optional canoe ride or visit nearby fishing village",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "10:00",
+              "activity": "Check-out from Cosy Houseboat",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "accommodation": { "hotel_id": null, "cost_inr": 0 },
+          "daily_budget_inr": 500,
+          "logistics": { "notes": "Drop at Alleppey Jetty by 9 AM" }
+        }
+      ],
+      "packing_list": [
+        "light_clothing",
+        "sunscreen",
+        "mosquito_repellent",
+        "camera"
+      ],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_aquajumbo_1d",
+      "name": "Aqua Jumbo Houseboat, Alleppey",
+      "duration_days": 1,
+      "theme": "day_cruise_luxury",
+      "target_audience": ["couples", "short_stay_travelers", "business_leisure"],
+      "budget_range_inr": {
+        "min": 9000,
+        "max": 11000,
+        "avg": 9700
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Day Cruise & Culinary Delight",
+          "activities": [
+            {
+              "time": "11:00",
+              "activity": "Check-in and welcome drink at Aqua Jumbo Houseboat",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "12:00",
+              "activity": "Lunch onboard with Kerala specialties",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "14:00",
+              "activity": "Cruise through Vembanad Lake and nearby lagoons",
+              "duration_hours": 2.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "16:30",
+              "activity": "Hi-tea and farewell",
+              "duration_hours": 0.5,
+              "cost_inr": 150
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "aquajumbo_houseboat",
+            "type": "Deluxe AC Room (Day Use 11 AM – 5 PM)",
+            "cost_inr": 9691
+          },
+          "daily_budget_inr": 10441,
+          "logistics": {
+            "transport_mode": "boat",
+            "notes": "Non-overnight cruise; check-out by 5 PM"
+          }
+        }
+      ],
+      "packing_list": [
+        "cotton_clothes",
+        "hat",
+        "sunscreen",
+        "waterproof_bag"
+      ],
+      "best_months": ["Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_coco_2d",
+      "name": "Coco Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "traditional_backwater_luxury",
+      "target_audience": ["couples", "families", "honeymooners"],
+      "budget_range_inr": {
+        "min": 5200,
+        "max": 6500,
+        "avg": 5800
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Scenic Backwater Cruise & Relaxation",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Check-in to Coco Houseboat; welcome drink served",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:30",
+              "activity": "Lunch on board with Kerala-style fish curry and local dishes",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Punnamada Lake and explore narrow canals",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Evening tea and sunset on the deck",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner on deck followed by music and stargazing",
+              "duration_hours": 1.5,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "coco_houseboats",
+            "type": "1 Bed Deluxe AC Houseboat",
+            "cost_inr": 5294
+          },
+          "daily_budget_inr": 6500,
+          "logistics": {
+            "transport_mode": "boat",
+            "notes": "Anchored overnight in calm backwaters near Punnamada"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast on deck",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "09:00",
+              "activity": "Short canoe ride or village walk",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "10:00",
+              "activity": "Check-out from the houseboat",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "daily_budget_inr": 400
+        }
+      ],
+      "packing_list": ["light_cotton_clothes", "camera", "hat", "mosquito_repellent"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_mytrip_1d",
+      "name": "My Trip Houseboats, Alleppey",
+      "duration_days": 1,
+      "theme": "day_cruise_with_lunch",
+      "target_audience": ["families", "groups", "corporate_events"],
+      "budget_range_inr": {
+        "min": 3000,
+        "max": 3800,
+        "avg": 3500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Thirumala, Alleppey",
+          "theme": "Day Cruise Experience",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Check-in and welcome drink on arrival",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:30",
+              "activity": "Lunch onboard with traditional Kerala cuisine",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise across Vembanad Lake and enjoy scenic backwaters",
+              "duration_hours": 2,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:00",
+              "activity": "Hi-tea and sunset view before check-out",
+              "duration_hours": 0.5,
+              "cost_inr": 100
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "mytrip_houseboats",
+            "type": "Day Cruise (No Room)",
+            "cost_inr": 3003
+          },
+          "daily_budget_inr": 3603,
+          "logistics": {
+            "notes": "Check-in 1:00 PM, Check-out 5:30 PM"
+          }
+        }
+      ],
+      "packing_list": ["camera", "sunglasses", "hat", "cotton_clothes"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_meghavarsham_2d",
+      "name": "Meghavarsham Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "all_inclusive_backwater_stay",
+      "target_audience": ["couples", "families"],
+      "budget_range_inr": {
+        "min": 6955,
+        "max": 9000,
+        "avg": 8000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey",
+          "theme": "Full-Day Cruise & Stay",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in and welcome drink",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch onboard (Kerala thali)",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "15:00",
+              "activity": "Backwater cruise and visit nearby fishing villages",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "19:00",
+              "activity": "Dinner with local cuisine and soft music",
+              "duration_hours": 1.5,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "meghavarsham_houseboat",
+            "type": "Deluxe Room with Balcony",
+            "cost_inr": 6955
+          },
+          "daily_budget_inr": 8200
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast onboard",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "09:00",
+              "activity": "Check-out and transfer",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "daily_budget_inr": 200
+        }
+      ],
+      "packing_list": ["light_clothing", "umbrella", "sunscreen", "camera"],
+      "best_months": ["Sep", "Oct", "Nov", "Dec", "Jan"]
+    },
+    {
+      "id": "template_houseboat_meridien_2d",
+      "name": "Meridien Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "premium_backwater_comfort",
+      "target_audience": ["families", "business_travelers"],
+      "budget_range_inr": {
+        "min": 6600,
+        "max": 8000,
+        "avg": 7200
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Traditional Cruise & Relaxation",
+          "activities": [
+            {
+              "time": "12:30",
+              "activity": "Welcome and embarkation on Meridien Houseboat",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch onboard",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Alleppey canals and lagoons",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "19:00",
+              "activity": "Dinner and music session on deck",
+              "duration_hours": 2,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "meridien_houseboat",
+            "type": "Deluxe Room on Sharing Houseboat",
+            "cost_inr": 6616
+          },
+          "daily_budget_inr": 7700
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Breakfast & Check-out",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast with view of sunrise over the backwaters",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Disembark and transfer",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "daily_budget_inr": 300
+        }
+      ],
+      "packing_list": ["sunhat", "sunscreen", "comfortable_clothing"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_atdc_2d",
+      "name": "ATDC Houseboat, Alleppey",
+      "duration_days": 2,
+      "theme": "family_backwater_stay",
+      "target_audience": ["families", "kids", "groups"],
+      "budget_range_inr": {
+        "min": 6000,
+        "max": 7000,
+        "avg": 6500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey",
+          "theme": "Backwater Exploration",
+          "activities": [
+            {
+              "time": "12:30",
+              "activity": "Welcome drink and lunch",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Alleppey backwaters and canal villages",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Hi-tea with snacks and sunset views",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner and family board games",
+              "duration_hours": 2,
+              "cost_inr": 600
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "atdc_houseboat",
+            "type": "Deluxe Houseboat (Sharing)",
+            "cost_inr": 6016
+          },
+          "daily_budget_inr": 7000
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Breakfast & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast on deck",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "09:00",
+              "activity": "Disembarkation",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "daily_budget_inr": 200
+        }
+      ],
+      "packing_list": ["comfortable_clothing", "kids_snacks", "camera"],
+      "best_months": ["Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_casino_2d",
+      "name": "Casino Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "luxury_backwater_cruise",
+      "target_audience": ["couples", "families", "honeymooners"],
+      "budget_range_inr": {
+        "min": 5800,
+        "max": 7500,
+        "avg": 6400
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Cruise & Relaxation",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in and enjoy a welcome drink",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Traditional Kerala lunch onboard",
+              "duration_hours": 1,
+              "cost_inr": 500
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through Alleppey backwaters and nearby islands",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:00",
+              "activity": "Evening tea and sunset on the upper deck",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner followed by soft music and stargazing",
+              "duration_hours": 1.5,
+              "cost_inr": 700
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "casino_houseboats",
+            "type": "Super Deluxe Room (AC 9PM–6AM)",
+            "cost_inr": 5848
+          },
+          "daily_budget_inr": 7200,
+          "logistics": {
+            "transport_mode": "boat",
+            "notes": "Anchored overnight at quiet backwater channel near Punnamada"
+          }
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Check-out",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast with backwater views",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "09:00",
+              "activity": "Disembarkation and optional sightseeing/fishing",
+              "duration_hours": 1,
+              "cost_inr": 200
+            }
+          ],
+          "daily_budget_inr": 400
+        }
+      ],
+      "packing_list": ["cotton_clothes", "sunscreen", "camera", "sandals"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_tharangini_1d",
+      "name": "Tharangini Houseboats, Alleppey",
+      "duration_days": 1,
+      "theme": "day_cruise_experience",
+      "target_audience": ["families", "groups", "solo_travelers"],
+      "budget_range_inr": {
+        "min": 2200,
+        "max": 3000,
+        "avg": 2500
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Punnamada, Alleppey",
+          "theme": "Traditional Backwater Day Cruise",
+          "activities": [
+            {
+              "time": "13:00",
+              "activity": "Check-in and welcome drink on deck",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:30",
+              "activity": "Enjoy freshly prepared Kerala-style lunch",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through backwater canals and lagoons",
+              "duration_hours": 2,
+              "cost_inr": 0
+            },
+            {
+              "time": "17:00",
+              "activity": "Evening tea and sunset photography session",
+              "duration_hours": 0.5,
+              "cost_inr": 100
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "tharangini_houseboats",
+            "type": "Day Cruise (No Room)",
+            "cost_inr": 2222
+          },
+          "daily_budget_inr": 2722,
+          "logistics": {
+            "notes": "Day cruise from 1:00 PM – 5:30 PM, Non-AC boat"
+          }
+        }
+      ],
+      "packing_list": ["camera", "sunhat", "sunglasses", "light_clothes"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    },
+    {
+      "id": "template_houseboat_sreekrishna_2d",
+      "name": "Sreekrishna Houseboats, Alleppey",
+      "duration_days": 2,
+      "theme": "eco_friendly_backwater_retreat",
+      "target_audience": ["families", "couples", "nature_seekers"],
+      "budget_range_inr": {
+        "min": 4900,
+        "max": 6000,
+        "avg": 5400
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey",
+          "theme": "Eco Backwater Stay",
+          "activities": [
+            {
+              "time": "12:30",
+              "activity": "Check-in and welcome drink",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch onboard with regional delicacies",
+              "duration_hours": 1,
+              "cost_inr": 400
+            },
+            {
+              "time": "15:00",
+              "activity": "Cruise through canals, observe local life & birdwatching",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Evening tea and sunset from deck",
+              "duration_hours": 1,
+              "cost_inr": 150
+            },
+            {
+              "time": "20:00",
+              "activity": "Dinner with soft music under starlit sky",
+              "duration_hours": 1.5,
+              "cost_inr": 600
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "sreekrishna_houseboats",
+            "type": "AC Deluxe Room (Night Stay 9PM–6AM)",
+            "cost_inr": 4929
+          },
+          "daily_budget_inr": 6200
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast onboard",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "09:00",
+              "activity": "Disembark and optional canoe ride",
+              "duration_hours": 1,
+              "cost_inr": 200
+            }
+          ],
+          "daily_budget_inr": 400
+        }
+      ],
+      "packing_list": ["eco_friendly_toiletries", "camera", "hat", "light_clothes"],
+      "best_months": ["Nov", "Dec", "Jan", "Feb", "Mar"]
+    },
+    {
+      "id": "template_houseboat_crystal_2d",
+      "name": "Alleppey Crystal Holidays Houseboats",
+      "duration_days": 2,
+      "theme": "private_deluxe_houseboat_experience",
+      "target_audience": ["couples", "families", "honeymooners"],
+      "budget_range_inr": {
+        "min": 15000,
+        "max": 18000,
+        "avg": 16000
+      },
+      "route": [
+        {
+          "day": 1,
+          "location": "Alleppey",
+          "theme": "Private Houseboat Stay",
+          "activities": [
+            {
+              "time": "12:00",
+              "activity": "Check-in and complimentary welcome drink",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            },
+            {
+              "time": "13:00",
+              "activity": "Authentic Kerala lunch on board",
+              "duration_hours": 1,
+              "cost_inr": 600
+            },
+            {
+              "time": "15:00",
+              "activity": "Backwater cruise and photography near Vembanad Lake",
+              "duration_hours": 3,
+              "cost_inr": 0
+            },
+            {
+              "time": "18:30",
+              "activity": "Evening snacks with coffee and lake view",
+              "duration_hours": 1,
+              "cost_inr": 200
+            },
+            {
+              "time": "20:00",
+              "activity": "Candlelight dinner onboard",
+              "duration_hours": 1.5,
+              "cost_inr": 800
+            }
+          ],
+          "accommodation": {
+            "hotel_id": "alleppey_crystal_holidays",
+            "type": "Private Deluxe AC Houseboat (AC 9PM–6AM)",
+            "cost_inr": 15047
+          },
+          "daily_budget_inr": 17000
+        },
+        {
+          "day": 2,
+          "location": "Alleppey",
+          "theme": "Morning Cruise & Departure",
+          "activities": [
+            {
+              "time": "07:30",
+              "activity": "Breakfast and morning cruise",
+              "duration_hours": 1,
+              "cost_inr": 300
+            },
+            {
+              "time": "09:00",
+              "activity": "Check-out and transfer",
+              "duration_hours": 0.5,
+              "cost_inr": 0
+            }
+          ],
+          "daily_budget_inr": 300
+        }
+      ],
+      "packing_list": ["comfortable_clothes", "sunscreen", "camera", "sunglasses"],
+      "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb"]
+    }
+  ]
+}
+
