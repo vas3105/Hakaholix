@@ -11,7 +11,7 @@ Traditional travel platforms are generic and time-consuming. Users are forced to
 
 ## 2. Our Solution
 
-Odyssey is an AI-powered travel assistant that does the work for you.
+Pogam is an AI-powered travel assistant that does the work for you.
 
 Through a natural, conversational interface (including voice), our AI understands the user's *true* intent. It then generates a unique, end-to-end travel plan.
 
