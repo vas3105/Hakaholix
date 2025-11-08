@@ -1,0 +1,108 @@
+.card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin: 1rem;
+  transition: transform 0.2s ease;
+  max-width: 350px;
+  width: 100%;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h3 {
+  color: #2c3e50;
+  margin: 0 0 1rem;
+  font-size: 1.2rem;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.rating {
+  display: flex;
+  gap: 0.5rem;
+  color: #666;
+  align-items: center;
+}
+
+.location {
+  color: #34495e;
+  font-size: 0.9rem;
+}
+
+.price {
+  color: #27ae60;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.amenities, .tips {
+  margin-top: 0.5rem;
+}
+
+.amenities h4, .tips h4 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.amenities ul, .tips ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.amenities li, .tips li {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.amenities li:before, .tips li:before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #3498db;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  background: #e1f5fe;
+  color: #0288d1;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+}
+
+.type, .duration, .fee, .timing {
+  color: #666;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Grid Container for Cards */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
