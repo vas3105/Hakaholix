@@ -18,7 +18,3 @@ Through a natural, conversational interface (including voice), our AI understand
 Our system is designed to go beyond the standard tourist spots to provide a hyper-personalized itinerary, ensuring a one-of-a-kind trip, every time.
 
 
-## 3. Current Status
-
-> ⚠️ **Note:** This project is in the very early stages of development for a 36-hour hackathon.
-
