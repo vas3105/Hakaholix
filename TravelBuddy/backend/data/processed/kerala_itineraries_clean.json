@@ -1,0 +1,1877 @@
+[
+  {
+    "id": "template_gardenhouse_dayout",
+    "name": "Garden House Day Out Package, Malampuzha",
+    "route": [
+      {
+        "day": 1,
+        "location": "Garden House, Malampuzha",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 600,
+      "max": 600,
+      "avg": 600
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "friends_group",
+      "local_visitors"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_waterscapes_dayout",
+    "name": "Water Scapes Day Out Package, Kumarakom",
+    "route": [
+      {
+        "day": 1,
+        "location": "Water Scapes, Kumarakom",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 750,
+      "max": 1750,
+      "avg": 1250
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "corporate_groups",
+      "friends_group"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_kumarakom_gateway_dayout",
+    "name": "Kumarakom Gateway Resort Day Out Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kumarakom Gateway Resort",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 850,
+      "max": 850,
+      "avg": 850
+    },
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "kids",
+      "corporate_groups"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_moments",
+    "name": "KTDC Moments",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kochi → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Kumarakom → Kochi",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Kochi",
+        "desc": ""
+      }
+    ],
+    "duration_days": 5,
+    "budget": {
+      "min": 40432,
+      "max": 73524,
+      "avg": 57000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "first_time_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_marvel",
+    "name": "KTDC Marvel",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kochi → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Thekkady → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Kumarakom → Kochi",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Kochi",
+        "desc": ""
+      }
+    ],
+    "duration_days": 6,
+    "budget": {
+      "min": 49529,
+      "max": 89073,
+      "avg": 70000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "honeymooners",
+      "nature_lovers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_magic",
+    "name": "KTDC Magic",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kochi",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Kochi → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Thekkady → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Kumarakom → Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Trivandrum / Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 8,
+        "location": "Trivandrum",
+        "desc": ""
+      }
+    ],
+    "duration_days": 8,
+    "budget": {
+      "min": 69447,
+      "max": 125154,
+      "avg": 97000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "international_tourists",
+      "luxury_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_moments_summer2025",
+    "name": "KTDC Moments (Summer–Monsoon 2025)",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kochi → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Kumarakom → Kochi",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Kochi",
+        "desc": ""
+      }
+    ],
+    "duration_days": 6,
+    "budget": {
+      "min": 45465,
+      "max": 82900,
+      "avg": 64000
+    },
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "first_time_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_marvel_summer2025",
+    "name": "KTDC Marvel (Summer–Monsoon 2025)",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kochi → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Thekkady → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Kumarakom → Kochi",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Kochi",
+        "desc": ""
+      }
+    ],
+    "duration_days": 7,
+    "budget": {
+      "min": 54260,
+      "max": 99125,
+      "avg": 77000
+    },
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "nature_lovers",
+      "honeymooners"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_ktdc_magic_summer2025",
+    "name": "KTDC Magic (Summer–Monsoon 2025)",
+    "route": [
+      {
+        "day": 1,
+        "location": "Trivandrum → Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Trivandrum / Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Kovalam → Kumarakom",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Kumarakom → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Thekkady → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Munnar → Kochi",
+        "desc": ""
+      },
+      {
+        "day": 8,
+        "location": "Kochi",
+        "desc": ""
+      }
+    ],
+    "duration_days": 8,
+    "budget": {
+      "min": 65650,
+      "max": 118305,
+      "avg": 91000
+    },
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "luxury_travelers",
+      "families",
+      "international_tourists"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_monsoon_premium_2025",
+    "name": "KTDC Premium Properties Monsoon Package 2025",
+    "route": [],
+    "duration_days": 3,
+    "budget": {
+      "min": 11999,
+      "max": 38999,
+      "avg": 19500
+    },
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "premium_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_monsoon_budget_2025",
+    "name": "KTDC Budget Properties Monsoon Package 2025",
+    "route": [],
+    "duration_days": 3,
+    "budget": {
+      "min": 4999,
+      "max": 9555,
+      "avg": 7000
+    },
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "budget_travelers",
+      "couples"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_monsoon_tamarind_2025",
+    "name": "KTDC Tamarind Easy Hotels Monsoon Package 2025",
+    "route": [],
+    "duration_days": 3,
+    "budget": {
+      "min": 4555,
+      "max": 4555,
+      "avg": 4555
+    },
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "solo_travelers",
+      "budget_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_munnar_tour_2d",
+    "name": "Munnar – Cochin 2 Days / 1 Night Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 5200,
+      "max": 5200,
+      "avg": 5200
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "weekend_travelers",
+      "nature_lovers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_kerala_budget_tour_2d",
+    "name": "Kerala Budget Tour – Munnar & Cochin (2 Days / 1 Night)",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 4500,
+      "max": 4500,
+      "avg": 4500
+    },
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "budget_travelers",
+      "students",
+      "families",
+      "solo_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_munnar_alleppey_3d2n",
+    "name": "3 Days / 2 Nights Standard Munnar–Alleppey Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar → Alleppey (Houseboat)",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Alleppey → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 3,
+    "budget": {
+      "min": 7500,
+      "max": 7500,
+      "avg": 7500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "first_time_visitors"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_deluxe_munnar_alleppey_3d2n",
+    "name": "3 Days / 2 Nights Deluxe Munnar–Alleppey Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar → Alleppey (Deluxe Houseboat)",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Alleppey → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 3,
+    "budget": {
+      "min": 8600,
+      "max": 8600,
+      "avg": 8600
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "honeymooners",
+      "luxury_travelers",
+      "families"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_deluxe_kerala_4d3n",
+    "name": "4 Days / 3 Nights Deluxe Kerala Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Thekkady → Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Alleppey → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 4,
+    "budget": {
+      "min": 18350,
+      "max": 18350,
+      "avg": 18350
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "culture_lovers",
+      "nature_enthusiasts"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_varkala_4d3n",
+    "name": "4 Days / 3 Nights Standard Varkala Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Arrival at Varkala",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Varkala",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Varkala → Kollam (Day Trip)",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Varkala → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 4,
+    "budget": {
+      "min": 24400,
+      "max": 24400,
+      "avg": 24400
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "beach_lovers",
+      "yoga_enthusiasts",
+      "couples",
+      "families"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_munnar_varkala_5d4n",
+    "name": "5 Days / 4 Nights Standard Munnar-Varkala Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Varkala",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Varkala",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Varkala → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 5,
+    "budget": {
+      "min": 15300,
+      "max": 15300,
+      "avg": 15300
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "nature_lovers",
+      "spiritual_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_munnar_thekkady_alleppey_rameshwaram_6d5n",
+    "name": "6 Days / 5 Nights Munnar-Thekkady-Alleppey-Rameshwaram Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Thekkady → Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Alleppey → Rameshwaram",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Rameshwaram → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 6,
+    "budget": {
+      "min": 15300,
+      "max": 15300,
+      "avg": 15300
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "nature_lovers",
+      "spiritual_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_munnar_varkala_cochin_6d5n",
+    "name": "6 Days / 5 Nights Standard Munnar–Varkala–Cochin Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Varkala",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Varkala",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Varkala → Cochin",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 6,
+    "budget": {
+      "min": 20200,
+      "max": 20200,
+      "avg": 20200
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "nature_lovers",
+      "culture_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_deluxe_kerala_munnar_wayanad_7d6n",
+    "name": "7 Days / 6 Nights Deluxe Kerala Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Thekkady → Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Alleppey → Wayanad",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Wayanad",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Wayanad → Bangalore/Coimbatore",
+        "desc": ""
+      }
+    ],
+    "duration_days": 7,
+    "budget": {
+      "min": 33750,
+      "max": 33750,
+      "avg": 33750
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "luxury_travelers",
+      "nature_enthusiasts",
+      "honeymooners"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_munnar_kovalam_7d6n",
+    "name": "7 Days / 6 Nights Munnar–Kovalam Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Thekkady → Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Alleppey → Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Kovalam → Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 7,
+    "budget": {
+      "min": 20850,
+      "max": 20850,
+      "avg": 20850
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "nature_lovers",
+      "relaxation_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_standard_cochin_munnar_thekkady_alleppey_kovalam_athirapally_8d7n",
+    "name": "8 Days / 7 Nights Cochin–Munnar–Thekkady–Alleppey–Kovalam with Athirapally Waterfalls Tour Package",
+    "route": [
+      {
+        "day": 1,
+        "location": "Cochin",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Cochin → Munnar",
+        "desc": ""
+      },
+      {
+        "day": 3,
+        "location": "Munnar",
+        "desc": ""
+      },
+      {
+        "day": 4,
+        "location": "Munnar → Thekkady",
+        "desc": ""
+      },
+      {
+        "day": 5,
+        "location": "Thekkady → Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 6,
+        "location": "Alleppey → Kovalam",
+        "desc": ""
+      },
+      {
+        "day": 7,
+        "location": "Kovalam → Athirapally → Cochin",
+        "desc": ""
+      },
+      {
+        "day": 8,
+        "location": "Cochin",
+        "desc": ""
+      }
+    ],
+    "duration_days": 8,
+    "budget": {
+      "min": 25750,
+      "max": 25750,
+      "avg": 25750
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "nature_lovers",
+      "photography_enthusiasts"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_indiavacationz_2d",
+    "name": "India Vacationz Houseboat Cruise, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey (Punnamada Backwaters)",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 8000,
+      "max": 12000,
+      "avg": 9500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "nature_lovers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_symphony_2d",
+    "name": "Symphony Luxury Premium Cruise, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey Backwaters (Thathampally)",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 9500,
+      "max": 15000,
+      "avg": 12000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "honeymooners",
+      "families",
+      "photographers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_eco_2d",
+    "name": "ECO Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey Backwaters",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 9000,
+      "max": 13000,
+      "avg": 11000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "eco_travelers",
+      "couples",
+      "nature_lovers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_kera_2d",
+    "name": "Kera Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey (Punnamada Lake)",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 9500,
+      "max": 14000,
+      "avg": 11500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "honeymooners",
+      "luxury_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_southernpanorama_2d",
+    "name": "Southern Panorama Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 10000,
+      "max": 15000,
+      "avg": 12500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "photographers",
+      "culture_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_pearlspot_2d",
+    "name": "Pearl Spot Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Kannankara Jetty, Alappuzha",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 5000,
+      "max": 7000,
+      "avg": 6500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "nature_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_upperdeck_2d",
+    "name": "Upper Deck Houseboats, Alappuzha",
+    "route": [
+      {
+        "day": 1,
+        "location": "Valiyarayil, Near Fishing Point",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 3500,
+      "max": 4500,
+      "avg": 4200
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "corporate_retreats",
+      "leisure_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_venice_2d",
+    "name": "Venice Premium Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey Jetty",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 10000,
+      "max": 13000,
+      "avg": 12500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "solo_travelers",
+      "small_groups",
+      "luxury_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_bestkerala_2d",
+    "name": "Best Kerala Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alappuzha",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 9000,
+      "max": 11500,
+      "avg": 10000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "business_travelers",
+      "couples",
+      "families"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_keralahouseboats_1d",
+    "name": "Kerala Houseboats, Thathampally",
+    "route": [
+      {
+        "day": 1,
+        "location": "Thathampally, Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 3000,
+      "max": 4500,
+      "avg": 3200
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "groups",
+      "budget_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_cosy_2d",
+    "name": "Cosy Houseboats, Thathampally",
+    "route": [
+      {
+        "day": 1,
+        "location": "The Great Backwater, Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 2800,
+      "max": 4000,
+      "avg": 3600
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "foreign_tourists"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_aquajumbo_1d",
+    "name": "Aqua Jumbo Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 9000,
+      "max": 11000,
+      "avg": 9700
+    },
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "short_stay_travelers",
+      "business_leisure"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_coco_2d",
+    "name": "Coco Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 5200,
+      "max": 6500,
+      "avg": 5800
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "honeymooners"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_mytrip_1d",
+    "name": "My Trip Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Thirumala, Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 3000,
+      "max": 3800,
+      "avg": 3500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "groups",
+      "corporate_events"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_meghavarsham_2d",
+    "name": "Meghavarsham Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 6955,
+      "max": 9000,
+      "avg": 8000
+    },
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_meridien_2d",
+    "name": "Meridien Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 6600,
+      "max": 8000,
+      "avg": 7200
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "business_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_atdc_2d",
+    "name": "ATDC Houseboat, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 6000,
+      "max": 7000,
+      "avg": 6500
+    },
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "kids",
+      "groups"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_casino_2d",
+    "name": "Casino Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 5800,
+      "max": 7500,
+      "avg": 6400
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "honeymooners"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_tharangini_1d",
+    "name": "Tharangini Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Punnamada, Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 1,
+    "budget": {
+      "min": 2200,
+      "max": 3000,
+      "avg": 2500
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "groups",
+      "solo_travelers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_sreekrishna_2d",
+    "name": "Sreekrishna Houseboats, Alleppey",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 4900,
+      "max": 6000,
+      "avg": 5400
+    },
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "interests": [],
+    "target_audience": [
+      "families",
+      "couples",
+      "nature_seekers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "template_houseboat_crystal_2d",
+    "name": "Alleppey Crystal Holidays Houseboats",
+    "route": [
+      {
+        "day": 1,
+        "location": "Alleppey",
+        "desc": ""
+      },
+      {
+        "day": 2,
+        "location": "Alleppey",
+        "desc": ""
+      }
+    ],
+    "duration_days": 2,
+    "budget": {
+      "min": 15000,
+      "max": 18000,
+      "avg": 16000
+    },
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "interests": [],
+    "target_audience": [
+      "couples",
+      "families",
+      "honeymooners"
+    ],
+    "notes": ""
+  }
+]
